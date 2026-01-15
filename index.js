@@ -1,5 +1,4 @@
 import express from "express"
-import axios from "axios"
 import cors from "cors"
 
 import errorHandler from "./middleware/errorHandler.js"
@@ -8,7 +7,7 @@ import checkOrders from "./utils/checkOrders.js"
 import router from "./routes/router.js"
 
 const app = express()
-const port = 3000
+const port = 1234
 
 updateSheets()
 checkOrders()
