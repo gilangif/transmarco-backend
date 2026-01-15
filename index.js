@@ -2,6 +2,7 @@ import express from "express"
 import cors from "cors"
 
 import errorHandler from "./middleware/errorHandler.js"
+import boostProducts from "./utils/boostProduct.js"
 import updateSheets from "./utils/updateSheets.js"
 import checkOrders from "./utils/checkOrders.js"
 import router from "./routes/router.js"
@@ -10,6 +11,7 @@ const app = express()
 const port = 1234
 
 updateSheets()
+boostProducts()
 checkOrders()
 
 // app.use(cors())

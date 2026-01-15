@@ -3,7 +3,7 @@ import { exec } from "child_process"
 
 import fs from "fs"
 
-export const config = { sheets: [], orders: {}, group: "-1003576780077" }
+export const config = { sheets: [], orders: {}, boosts: {}, group: "-1003576780077" }
 
 export const JWT_SECRET = "juwanto"
 
