@@ -26,14 +26,7 @@ export default async function checkOrders(counter = 0) {
       config.orders[order_sn] = order
 
       const reply_markup = {
-        inline_keyboard: [
-          [{ text: order_sn, url: `https://seller.shopee.co.id${odp_url_path_query}` }],
-          [
-            { text: `VIEW`, url: `https://shopee.co.id/product/24819895/${item_id}` },
-            { text: `EDIT ${product}`, url: `https://seller.shopee.co.id/portal/product/${item_id}` },
-          ],
-          [{ text: `TOOLS ${product}`, url: `https://oyen.online/shopee?id=${item_id}` }],
-        ],
+        inline_keyboard: [[{ text: order_sn, url: `https://seller.shopee.co.id${odp_url_path_query}` }]],
       }
 
       const info = item_info_list.map((info) => {
@@ -64,6 +57,14 @@ export default async function checkOrders(counter = 0) {
 
           if (d.includes("HPAL") || d.includes("HPAM") || d.includes("HPC") || d.includes("HPSO") || d.includes("HPU")) caption += "\n\n@pencurilauk @Abductedby_Aliens"
 
+          reply_markup.inline_keyboard.push(
+            [
+              { text: `VIEW`, url: `https://shopee.co.id/product/24819895/${item_id}` },
+              { text: `EDIT ${product}`, url: `https://seller.shopee.co.id/portal/product/${item_id}` },
+            ],
+            [{ text: `TOOLS ${product}`, url: `https://oyen.online/shopee?id=${item_id}` }]
+          )
+          
           return { url, type, caption, media: { source: null, filename } }
         })
 
