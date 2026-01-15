@@ -105,7 +105,7 @@ export default async function checkOrders(counter = 0) {
   } catch (error) {
     console.log({ error, source: "checkOrders function" })
   } finally {
-    await new Promise((resolve) => setTimeout(resolve, 1 * 60 * 1000))
+    await new Promise((resolve) => setTimeout(resolve, 2 * 60 * 1000))
     checkOrders(counter + 1)
   }
 }
