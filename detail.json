@@ -1,0 +1,2331 @@
+{
+  "code": 0,
+  "msg": "success",
+  "user_message": "success",
+  "data": {
+    "product_info": {
+      "id": 26464210151,
+      "name": "Hush Puppies Leviere Kaos T-Shirt Wanita",
+      "status": 1,
+      "images": [
+        "id-11134207-8224u-miesx05htambb5",
+        "id-11134207-8224y-miesx05hup6r95",
+        "id-11134207-8224v-miesx05hw3r77d",
+        "id-11134207-82252-miesx05hxibna5",
+        "id-11134207-8224v-mifcdch0phc63d",
+        "id-11134207-8224z-mifcdchblds0a9",
+        "id-11134207-8224p-mifcdchbmscgbc",
+        "id-11134207-8224t-mifcdchbo6wwe8"
+      ],
+      "long_images": [],
+      "is_vsku": false,
+      "is_b2c_transfer": false,
+      "category_path": [
+        100017,
+        100099,
+        100352
+      ],
+      "parent_sku": "HPAL",
+      "condition": 1,
+      "dangerous_goods": 0,
+      "min_purchase_limit": 1,
+      "enable_model_level_dts": false,
+      "video_task_id": "",
+      "is_unlisted": false,
+      "description_info": {
+        "description": "{\"field_list\":[{\"type\":0,\"value\":\"- Kaos casual lengan pendek dalam nuansa solid tone\\n- Warna Black, Blue, Brown, Navy, Pink, Red, White\\n- Kerah bulat\\n- Unlined\\n- Regular fit\\n- Material Katun Organik 30'S tidak transparan, ringan, dan tidak stretch\\nWarna pada gambar dapat sedikit berbeda dengan warna asli produk akibat pencahayaan saat proses photoshoot.\\n\\nUkuran Produk:\\n\\nLingkar Dada x Panjang Badan:\\n- S: Lingkar Dada (91) x Panjang Badan (60)\\n- M: Lingkar Dada (95) x Panjang Badan (61)\\n- L: Lingkar Dada (99) x Panjang Badan (62)\\n- XL: Lingkar Dada (103) x Panjang Badan (64)\\n- XXL: Lingkar Dada (107) x Panjang Badan (65)\\n\\n\"},{\"type\":1,\"value\":\"id-11134208-8224x-miesbeurcw0065\"},{\"type\":1,\"value\":\"id-11134208-8224v-miesbeureakg86\"},{\"type\":1,\"value\":\"id-11134208-8224o-miesbeurfp4w39\"},{\"type\":1,\"value\":\"id-11134208-82251-miesbeurh3pc24\"},{\"type\":1,\"value\":\"id-11134208-82250-mifcm07mqxvr50\"},{\"type\":1,\"value\":\"id-11134208-8224s-mifcm07nkft07d\"},{\"type\":1,\"value\":\"id-11134208-8224x-mifcm07nludg24\"},{\"type\":1,\"value\":\"id-11134208-8224x-mifcm07nn8xw79\"}]}",
+        "description_type": "json"
+      },
+      "size_chart_info": {
+        "size_chart": "",
+        "size_chart_id": 1104238555
+      },
+      "video_list": [],
+      "attributes": [
+        {
+          "attribute_id": 100037,
+          "attribute_values": [
+            {
+              "value_id": 68
+            }
+          ]
+        },
+        {
+          "attribute_id": 100154,
+          "attribute_values": [
+            {
+              "value_id": 1434
+            }
+          ]
+        },
+        {
+          "attribute_id": 100155,
+          "attribute_values": [
+            {
+              "value_id": 1387
+            }
+          ]
+        },
+        {
+          "attribute_id": 100163,
+          "attribute_values": [
+            {
+              "value_id": 1462
+            }
+          ]
+        },
+        {
+          "attribute_id": 100134,
+          "attribute_values": [
+            {
+              "value_id": 1149
+            }
+          ]
+        },
+        {
+          "attribute_id": 100150,
+          "attribute_values": [
+            {
+              "value_id": 1359
+            }
+          ]
+        },
+        {
+          "attribute_id": 100161,
+          "attribute_values": [
+            {
+              "value_id": 1446
+            }
+          ]
+        },
+        {
+          "attribute_id": 100162,
+          "attribute_values": [
+            {
+              "value_id": 1463
+            }
+          ]
+        },
+        {
+          "attribute_id": 100168,
+          "attribute_values": [
+            {
+              "value_id": 1500
+            }
+          ]
+        },
+        {
+          "attribute_id": 100169,
+          "attribute_values": [
+            {
+              "raw_value": "playful"
+            }
+          ]
+        },
+        {
+          "attribute_id": 100170,
+          "attribute_values": [
+            {
+              "value_id": 1514
+            }
+          ]
+        },
+        {
+          "attribute_id": 101004,
+          "attribute_values": [
+            {
+              "value_id": 5488
+            }
+          ]
+        },
+        {
+          "attribute_id": 101219,
+          "attribute_values": [
+            {
+              "value_id": 7222
+            }
+          ]
+        }
+      ],
+      "wholesale_list": [],
+      "weight": {
+        "value": "500",
+        "unit": 2
+      },
+      "dimension": {
+        "width": "",
+        "length": "",
+        "height": ""
+      },
+      "brand_info": {
+        "brand_name": "Hush Puppies",
+        "brand_id": 1801425
+      },
+      "complaint_policy": {},
+      "tax_setting": {},
+      "max_purchase_limit_info": {
+        "type": 0,
+        "purchase_limit": 0,
+        "start_date": "",
+        "end_date": "",
+        "repeated_times": 0
+      },
+      "promotion_info": {
+        "ongoing_campaign_list": [
+          3
+        ],
+        "bundle_deal_label_list": [
+          {
+            "value": "Pilih 12, diskon 10%",
+            "language": "id"
+          },
+          {
+            "value": "Any 12 enjoy 10% off",
+            "language": "en"
+          }
+        ]
+      },
+      "tier_variation": [
+        {
+          "name": "Warna",
+          "options": [
+            "Black (BK)",
+            "Blue (BL)",
+            "Brown (BRW)",
+            "Pink (PK)",
+            "Red (REF)",
+            "White (WH)",
+            "Navy (NVY)"
+          ],
+          "images": [
+            "id-11134207-82252-mifcdchbr01s68",
+            "id-11134207-8224s-mifcdchbsem8e2",
+            "id-11134207-8224v-mifcdchbtt6o2d",
+            "id-11134207-8224r-mifcdchbv7r4b5",
+            "id-11134207-8224o-mifcdchbwmbk5b",
+            "id-11134207-8224y-mifcdchby0w01a",
+            "id-11134207-8224u-mifcjbc6zawy17"
+          ]
+        },
+        {
+          "name": "Ukuran",
+          "options": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ],
+          "images": null
+        }
+      ],
+      "model_list": [
+        {
+          "id": 217881791174,
+          "name": "Black (BK),S",
+          "is_default": false,
+          "tier_index": [
+            0,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BKS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 1,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 1,
+            "total_seller_stock": 1,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791175,
+          "name": "Black (BK),M",
+          "is_default": false,
+          "tier_index": [
+            0,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BKM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 7,
+            "total_seller_stock": 7,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791176,
+          "name": "Black (BK),L",
+          "is_default": false,
+          "tier_index": [
+            0,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BKL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 3,
+            "total_seller_stock": 3,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791177,
+          "name": "Black (BK),XL",
+          "is_default": false,
+          "tier_index": [
+            0,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BKXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 2,
+            "total_seller_stock": 2,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791178,
+          "name": "Black (BK),XXL",
+          "is_default": false,
+          "tier_index": [
+            0,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BKXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791179,
+          "name": "Blue (BL),S",
+          "is_default": false,
+          "tier_index": [
+            1,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BLS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 5,
+            "total_seller_stock": 5,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791180,
+          "name": "Blue (BL),M",
+          "is_default": false,
+          "tier_index": [
+            1,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BLM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791181,
+          "name": "Blue (BL),L",
+          "is_default": false,
+          "tier_index": [
+            1,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BLL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791182,
+          "name": "Blue (BL),XL",
+          "is_default": false,
+          "tier_index": [
+            1,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BLXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791183,
+          "name": "Blue (BL),XXL",
+          "is_default": false,
+          "tier_index": [
+            1,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402BLXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 1,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 1,
+            "total_seller_stock": 1,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791189,
+          "name": "Pink (PK),S",
+          "is_default": false,
+          "tier_index": [
+            3,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402PKS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791190,
+          "name": "Pink (PK),M",
+          "is_default": false,
+          "tier_index": [
+            3,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402PKM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 11,
+            "total_seller_stock": 11,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791191,
+          "name": "Pink (PK),L",
+          "is_default": false,
+          "tier_index": [
+            3,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402PKL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 13,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 13,
+            "total_seller_stock": 13,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791192,
+          "name": "Pink (PK),XL",
+          "is_default": false,
+          "tier_index": [
+            3,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402PKXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791193,
+          "name": "Pink (PK),XXL",
+          "is_default": false,
+          "tier_index": [
+            3,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402PKXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791194,
+          "name": "Red (REF),S",
+          "is_default": false,
+          "tier_index": [
+            4,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402RDS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791195,
+          "name": "Red (REF),M",
+          "is_default": false,
+          "tier_index": [
+            4,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402RDM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 15,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 15,
+            "total_seller_stock": 15,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791196,
+          "name": "Red (REF),L",
+          "is_default": false,
+          "tier_index": [
+            4,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402RDL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 11,
+            "total_seller_stock": 11,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791197,
+          "name": "Red (REF),XL",
+          "is_default": false,
+          "tier_index": [
+            4,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402RDXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 7,
+            "total_seller_stock": 7,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791198,
+          "name": "Red (REF),XXL",
+          "is_default": false,
+          "tier_index": [
+            4,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402RDXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 7,
+            "total_seller_stock": 7,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791199,
+          "name": "White (WH),S",
+          "is_default": false,
+          "tier_index": [
+            5,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402WHS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791200,
+          "name": "White (WH),M",
+          "is_default": false,
+          "tier_index": [
+            5,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402WHM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 12,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791201,
+          "name": "White (WH),L",
+          "is_default": false,
+          "tier_index": [
+            5,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402WHL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 7,
+            "total_seller_stock": 7,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791202,
+          "name": "White (WH),XL",
+          "is_default": false,
+          "tier_index": [
+            5,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402WHXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 11,
+            "total_seller_stock": 11,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 217881791203,
+          "name": "White (WH),XXL",
+          "is_default": false,
+          "tier_index": [
+            5,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "available_status": 1,
+          "sku": "LA27402WHXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 1,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 1,
+            "total_seller_stock": 1,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885093,
+          "name": "Brown (BRW),L",
+          "is_default": false,
+          "tier_index": [
+            2,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402BRWL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 2,
+            "total_seller_stock": 2,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885094,
+          "name": "Brown (BRW),XL",
+          "is_default": false,
+          "tier_index": [
+            2,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402BRWXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885095,
+          "name": "Brown (BRW),XXL",
+          "is_default": false,
+          "tier_index": [
+            2,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402BRWXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 2,
+            "total_seller_stock": 2,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885096,
+          "name": "Navy (NVY),S",
+          "is_default": false,
+          "tier_index": [
+            6,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402NVYS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 2,
+            "total_seller_stock": 2,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885097,
+          "name": "Navy (NVY),M",
+          "is_default": false,
+          "tier_index": [
+            6,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402NVYM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885098,
+          "name": "Navy (NVY),L",
+          "is_default": false,
+          "tier_index": [
+            6,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402NVYL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885099,
+          "name": "Navy (NVY),XL",
+          "is_default": false,
+          "tier_index": [
+            6,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402NVYXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 272205885100,
+          "name": "Navy (NVY),XXL",
+          "is_default": false,
+          "tier_index": [
+            6,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402NVYXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 1,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 1,
+            "total_seller_stock": 1,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 340212620023,
+          "name": "Brown (BRW),S",
+          "is_default": false,
+          "tier_index": [
+            2,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402BRWS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 2,
+            "total_seller_stock": 2,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        {
+          "id": 340212620024,
+          "name": "Brown (BRW),M",
+          "is_default": false,
+          "tier_index": [
+            2,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27402BRWM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "179000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "179000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 5,
+            "total_seller_stock": 5,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        }
+      ],
+      "pre_order_info": {
+        "pre_order": false,
+        "days_to_ship": 2
+      },
+      "category_path_name_list": [
+        "Pakaian Wanita",
+        "Atasan",
+        "Kaos"
+      ],
+      "std_tier_variation_list": [
+        {
+          "id": 101054,
+          "group_id": "0",
+          "custom_value": "Warna",
+          "value_list": [
+            {
+              "id": 0,
+              "custom_value": "Black (BK)",
+              "image_id": "id-11134207-82252-mifcdchbr01s68",
+              "selling_point": "BK"
+            },
+            {
+              "id": 0,
+              "custom_value": "Blue (BL)",
+              "image_id": "id-11134207-8224s-mifcdchbsem8e2",
+              "selling_point": "BL"
+            },
+            {
+              "id": 0,
+              "custom_value": "Brown (BRW)",
+              "image_id": "id-11134207-8224v-mifcdchbtt6o2d",
+              "selling_point": "BRW"
+            },
+            {
+              "id": 0,
+              "custom_value": "Pink (PK)",
+              "image_id": "id-11134207-8224r-mifcdchbv7r4b5",
+              "selling_point": "(PK)"
+            },
+            {
+              "id": 0,
+              "custom_value": "Red (REF)",
+              "image_id": "id-11134207-8224o-mifcdchbwmbk5b",
+              "selling_point": "RED"
+            },
+            {
+              "id": 0,
+              "custom_value": "White (WH)",
+              "image_id": "id-11134207-8224y-mifcdchby0w01a",
+              "selling_point": "WH"
+            },
+            {
+              "id": 0,
+              "custom_value": "Navy (NVY)",
+              "image_id": "id-11134207-8224u-mifcjbc6zawy17",
+              "selling_point": "NVY"
+            }
+          ]
+        },
+        {
+          "id": 0,
+          "group_id": "0",
+          "custom_value": "Ukuran",
+          "value_list": [
+            {
+              "id": 0,
+              "custom_value": "S",
+              "selling_point": ""
+            },
+            {
+              "id": 0,
+              "custom_value": "M",
+              "selling_point": ""
+            },
+            {
+              "id": 0,
+              "custom_value": "L",
+              "selling_point": ""
+            },
+            {
+              "id": 0,
+              "custom_value": "XL",
+              "selling_point": ""
+            },
+            {
+              "id": 0,
+              "custom_value": "XXL",
+              "selling_point": ""
+            }
+          ]
+        }
+      ],
+      "compatibility_info": {},
+      "authorised_brand_id": 0,
+      "brand_license_info": {},
+      "create_time": 1729083063,
+      "mtsku_id": 26464210149,
+      "is_ssp_fast_upload": false,
+      "first_publish_time": 1729083063,
+      "new_product_period": 90
+    }
+  }
+}
