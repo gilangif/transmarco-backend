@@ -1,0 +1,5116 @@
+[
+  {
+    "option": "Berry (BY)",
+    "cover": "id-11134207-8224s-mide1dccf18j54",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 301638742753,
+          "name": "Berry (BY),S",
+          "is_default": false,
+          "tier_index": [
+            0,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407BYS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 301638742754,
+          "name": "Berry (BY),M",
+          "is_default": false,
+          "tier_index": [
+            0,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407BYM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 14,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 14,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 28,
+            "total_seller_stock": 28,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 14,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 301638742755,
+          "name": "Berry (BY),L",
+          "is_default": false,
+          "tier_index": [
+            0,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407BYL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 9,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 301638742756,
+          "name": "Berry (BY),XL",
+          "is_default": false,
+          "tier_index": [
+            0,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407BYXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 301638742757,
+          "name": "Berry (BY),XXL",
+          "is_default": false,
+          "tier_index": [
+            0,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407BYXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 1,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 1,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 2,
+            "total_seller_stock": 2,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 1,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Camel (CM)",
+    "cover": "id-11134207-8224z-mide1dccgfszd6",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977408,
+          "name": "Camel (CM),S",
+          "is_default": false,
+          "tier_index": [
+            1,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407CMS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977409,
+          "name": "Camel (CM),M",
+          "is_default": false,
+          "tier_index": [
+            1,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407CMM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 14,
+            "total_seller_stock": 14,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 7,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977410,
+          "name": "Camel (CM),L",
+          "is_default": false,
+          "tier_index": [
+            1,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407CML",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 14,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 14,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 28,
+            "total_seller_stock": 28,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 14,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977411,
+          "name": "Camel (CM),XL",
+          "is_default": false,
+          "tier_index": [
+            1,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407CMXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 8,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977412,
+          "name": "Camel (CM),XXL",
+          "is_default": false,
+          "tier_index": [
+            1,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407CM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 10,
+            "total_seller_stock": 10,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Dusty Pink (DP)",
+    "cover": "id-11134207-8224o-mide1dccdmo305",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977413,
+          "name": "Dusty Pink (DP),S",
+          "is_default": false,
+          "tier_index": [
+            2,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407DPS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 14,
+            "total_seller_stock": 14,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977414,
+          "name": "Dusty Pink (DP),M",
+          "is_default": false,
+          "tier_index": [
+            2,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407DPM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 10,
+            "total_seller_stock": 10,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 5,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977415,
+          "name": "Dusty Pink (DP),L",
+          "is_default": false,
+          "tier_index": [
+            2,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407DPL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 20,
+            "total_seller_stock": 20,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 10,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977416,
+          "name": "Dusty Pink (DP),XL",
+          "is_default": false,
+          "tier_index": [
+            2,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407DPXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977417,
+          "name": "Dusty Pink (DP),XXL",
+          "is_default": false,
+          "tier_index": [
+            2,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407DPXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 3,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Light Blue (LB)",
+    "cover": "id-11134207-8224r-mide1dcchudf9f",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977418,
+          "name": "Light Blue (LB),S",
+          "is_default": false,
+          "tier_index": [
+            3,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LBS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977419,
+          "name": "Light Blue (LB),M",
+          "is_default": false,
+          "tier_index": [
+            3,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LBM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 14,
+            "total_seller_stock": 14,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 7,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977420,
+          "name": "Light Blue (LB),L",
+          "is_default": false,
+          "tier_index": [
+            3,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LBL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 20,
+            "total_seller_stock": 20,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 10,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977421,
+          "name": "Light Blue (LB),XL",
+          "is_default": false,
+          "tier_index": [
+            3,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LBXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977422,
+          "name": "Light Blue (LB),XXL",
+          "is_default": false,
+          "tier_index": [
+            3,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LBXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 3,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Lilac (LL)",
+    "cover": "id-11134207-82250-mide1dccj8xvba",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977423,
+          "name": "Lilac (LL),S",
+          "is_default": false,
+          "tier_index": [
+            4,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LLS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 9,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977424,
+          "name": "Lilac (LL),M",
+          "is_default": false,
+          "tier_index": [
+            4,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LLM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 22,
+            "total_seller_stock": 22,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 11,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977425,
+          "name": "Lilac (LL),L",
+          "is_default": false,
+          "tier_index": [
+            4,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LLL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 22,
+            "total_seller_stock": 22,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 11,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977426,
+          "name": "Lilac (LL),XL",
+          "is_default": false,
+          "tier_index": [
+            4,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LLXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 16,
+            "total_seller_stock": 16,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 7,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977427,
+          "name": "Lilac (LL),XXL",
+          "is_default": false,
+          "tier_index": [
+            4,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LLXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Light Red (LR)",
+    "cover": "id-11134207-8224x-mide1dccknib1f",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977428,
+          "name": "Light Red (LR),S",
+          "is_default": false,
+          "tier_index": [
+            5,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LRS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 14,
+            "total_seller_stock": 14,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 7,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977429,
+          "name": "Light Red (LR),M",
+          "is_default": false,
+          "tier_index": [
+            5,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LRM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 17,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 17,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 34,
+            "total_seller_stock": 34,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 17,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977430,
+          "name": "Light Red (LR),L",
+          "is_default": false,
+          "tier_index": [
+            5,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LRL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 14,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 14,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 28,
+            "total_seller_stock": 28,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 14,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977431,
+          "name": "Light Red (LR),XL",
+          "is_default": false,
+          "tier_index": [
+            5,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LRXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977432,
+          "name": "Light Red (LR),XXL",
+          "is_default": false,
+          "tier_index": [
+            5,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407LRXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 2,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Medium Blue (MB)",
+    "cover": "id-11134207-8224p-mide1dccm22rd0",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977433,
+          "name": "Medium Blue (MB),S",
+          "is_default": false,
+          "tier_index": [
+            6,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MBS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 10,
+            "total_seller_stock": 10,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 5,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977434,
+          "name": "Medium Blue (MB),M",
+          "is_default": false,
+          "tier_index": [
+            6,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MBM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 20,
+            "total_seller_stock": 20,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 10,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977435,
+          "name": "Medium Blue (MB),L",
+          "is_default": false,
+          "tier_index": [
+            6,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MBL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 12,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 12,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 24,
+            "total_seller_stock": 24,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 12,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977436,
+          "name": "Medium Blue (MB),XL",
+          "is_default": false,
+          "tier_index": [
+            6,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MBXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 9,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977437,
+          "name": "Medium Blue (MB),XXL",
+          "is_default": false,
+          "tier_index": [
+            6,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MBXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Mint (MT)",
+    "cover": "id-11134207-8224p-mide3r2jmxvm7e",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977438,
+          "name": "Mint (MT),S",
+          "is_default": false,
+          "tier_index": [
+            7,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MTS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977439,
+          "name": "Mint (MT),M",
+          "is_default": false,
+          "tier_index": [
+            7,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MTM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 11,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 22,
+            "total_seller_stock": 22,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 11,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977440,
+          "name": "Mint (MT),L",
+          "is_default": false,
+          "tier_index": [
+            7,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MTL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 16,
+            "total_seller_stock": 16,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 8,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977441,
+          "name": "Mint (MT),XL",
+          "is_default": false,
+          "tier_index": [
+            7,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MTXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 390311977442,
+          "name": "Mint (MT),XXL",
+          "is_default": false,
+          "tier_index": [
+            7,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407MTXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 3,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Navy (NV)",
+    "cover": "id-11134207-8224q-mide3r2jocg237",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 390311977443,
+          "name": "Navy (NV),S",
+          "is_default": false,
+          "tier_index": [
+            8,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407NVS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 2,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 390311977444,
+          "name": "Navy (NV),M",
+          "is_default": false,
+          "tier_index": [
+            8,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407NVM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 16,
+            "total_seller_stock": 16,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 8,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 390311977445,
+          "name": "Navy (NV),L",
+          "is_default": false,
+          "tier_index": [
+            8,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407NVL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 13,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 13,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 26,
+            "total_seller_stock": 26,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 13,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 390311977446,
+          "name": "Navy (NV),XL",
+          "is_default": false,
+          "tier_index": [
+            8,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407NVXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 420311977637,
+          "name": "Navy (NV),XXL",
+          "is_default": false,
+          "tier_index": [
+            8,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407NVXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Pink (PK)",
+    "cover": "id-11134207-8224r-mide3r2jpr0i26",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 420311977638,
+          "name": "Pink (PK),S",
+          "is_default": false,
+          "tier_index": [
+            9,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407PKS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 420311977639,
+          "name": "Pink (PK),M",
+          "is_default": false,
+          "tier_index": [
+            9,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407PKM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 9,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 420311977640,
+          "name": "Pink (PK),L",
+          "is_default": false,
+          "tier_index": [
+            9,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407PKL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 16,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 16,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 32,
+            "total_seller_stock": 32,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 16,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 420311977641,
+          "name": "Pink (PK),XL",
+          "is_default": false,
+          "tier_index": [
+            9,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407PKXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 8,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 16,
+            "total_seller_stock": 16,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 8,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 420311977642,
+          "name": "Pink (PK),XXL",
+          "is_default": false,
+          "tier_index": [
+            9,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407PKXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Red (RD)",
+    "cover": "id-11134207-8224r-mide3r2jr5ky6b",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 420311977643,
+          "name": "Red (RD),S",
+          "is_default": false,
+          "tier_index": [
+            10,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407RDS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 420311977644,
+          "name": "Red (RD),M",
+          "is_default": false,
+          "tier_index": [
+            10,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407RDM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 420311977645,
+          "name": "Red (RD),L",
+          "is_default": false,
+          "tier_index": [
+            10,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407RDL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 420311977646,
+          "name": "Red (RD),XL",
+          "is_default": false,
+          "tier_index": [
+            10,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407RDXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 420311977647,
+          "name": "Red (RD),XXL",
+          "is_default": false,
+          "tier_index": [
+            10,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407RDXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 0,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 0,
+            "total_seller_stock": 0,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 0,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Sage (SG)",
+    "cover": "id-11134207-8224v-mide3r2jsk5e1f",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 420311977648,
+          "name": "Sage (SG),S",
+          "is_default": false,
+          "tier_index": [
+            11,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407SGS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 5,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 10,
+            "total_seller_stock": 10,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 5,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 420311977649,
+          "name": "Sage (SG),M",
+          "is_default": false,
+          "tier_index": [
+            11,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407SGM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 3,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 420311977650,
+          "name": "Sage (SG),L",
+          "is_default": false,
+          "tier_index": [
+            11,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407SGL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 20,
+            "total_seller_stock": 20,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 10,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 420311977651,
+          "name": "Sage (SG),XL",
+          "is_default": false,
+          "tier_index": [
+            11,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407SGXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 14,
+            "total_seller_stock": 14,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 7,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 420311977652,
+          "name": "Sage (SG),XXL",
+          "is_default": false,
+          "tier_index": [
+            11,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407SGXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 2,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 4,
+            "total_seller_stock": 4,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 2,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "White (WH)",
+    "cover": "id-11134207-8224w-mide3r2jtypue0",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 420311977653,
+          "name": "White (WH),S",
+          "is_default": false,
+          "tier_index": [
+            12,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407WHS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 420311977654,
+          "name": "White (WH),M",
+          "is_default": false,
+          "tier_index": [
+            12,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407WHM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 9,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 420311977655,
+          "name": "White (WH),L",
+          "is_default": false,
+          "tier_index": [
+            12,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407WHL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 21,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 21,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 42,
+            "total_seller_stock": 42,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 21,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 420311977656,
+          "name": "White (WH),XL",
+          "is_default": false,
+          "tier_index": [
+            12,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407WHXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 420311977657,
+          "name": "White (WH),XXL",
+          "is_default": false,
+          "tier_index": [
+            12,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407WHXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 4,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 8,
+            "total_seller_stock": 8,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 4,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  },
+  {
+    "option": "Yellow (YL)",
+    "cover": "id-11134207-8224u-mide3r2jvdaafc",
+    "fields": [
+      {
+        "option": "S",
+        "model": {
+          "id": 420311977658,
+          "name": "Yellow (YL),S",
+          "is_default": false,
+          "tier_index": [
+            13,
+            0
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407YLS",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 6,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 12,
+            "total_seller_stock": 12,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 6,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "M",
+        "model": {
+          "id": 420311977659,
+          "name": "Yellow (YL),M",
+          "is_default": false,
+          "tier_index": [
+            13,
+            1
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407YLM",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 9,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 18,
+            "total_seller_stock": 18,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 9,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "L",
+        "model": {
+          "id": 420311977660,
+          "name": "Yellow (YL),L",
+          "is_default": false,
+          "tier_index": [
+            13,
+            2
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407YLL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 10,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 20,
+            "total_seller_stock": 20,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 10,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XL",
+        "model": {
+          "id": 420311977661,
+          "name": "Yellow (YL),XL",
+          "is_default": false,
+          "tier_index": [
+            13,
+            3
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407YLXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 7,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 14,
+            "total_seller_stock": 14,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 7,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      },
+      {
+        "option": "XXL",
+        "model": {
+          "id": 420311977662,
+          "name": "Yellow (YL),XXL",
+          "is_default": false,
+          "tier_index": [
+            13,
+            4
+          ],
+          "is_partial_fulfillment": false,
+          "pre_order_info": {
+            "pre_order": false,
+            "days_to_ship": 2
+          },
+          "gtin_code": "",
+          "available_status": 1,
+          "sku": "LA27407YLXXL",
+          "normal_status_editable_type": 0,
+          "unavailable_status_editable_type": 2,
+          "price_info": {
+            "input_normal_price": "229000.00",
+            "input_promotion_price": "0.00",
+            "normal_price": "229000.00",
+            "promotion_price": "0.00",
+            "sip_item_price": "0.00",
+            "price_strategy": 0
+          },
+          "stock_detail": {
+            "seller_stock_info": [
+              {
+                "location_id": "IDZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS BOTANI"
+              },
+              {
+                "location_id": "ID014GWYZ",
+                "sellable_stock": 3,
+                "fixed_reserved_stock": 0,
+                "is_disabled": false,
+                "location_name": "CITRUS D-MALL"
+              }
+            ],
+            "total_reserved_stock": 0,
+            "total_available_stock": 6,
+            "total_seller_stock": 6,
+            "total_shopee_stock": 0,
+            "is_available_stock_for_promo": false
+          },
+          "weight": {
+            "value": "500",
+            "unit": 2
+          },
+          "dimension": {
+            "width": "",
+            "length": "",
+            "height": ""
+          },
+          "confirm_empty_gtin": false,
+          "cssp_id": 0,
+          "ssp_id": 0
+        },
+        "artikel": "LA27407BY",
+        "desc": "ARDYNE POLO",
+        "stock": 3,
+        "price": 459000,
+        "disc": "50%",
+        "promo": "50%",
+        "netto": 229500
+      }
+    ]
+  }
+]
