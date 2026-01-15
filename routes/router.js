@@ -9,7 +9,7 @@ import express from "express"
 
 const router = express.Router()
 
-router.post("/users/auth", UserController.auth)
+router.get("/", (req, res) => res.send("It's work !"))
 
 router.get("/sheets", authentication, SheetController.getStock)
 
@@ -17,6 +17,8 @@ router.get("/shopee/boosts", authentication, ShopeeController.getBoosts)
 router.get("/shopee/orders", authentication, ShopeeController.getOrders)
 router.post("/shopee/detail", authentication, ShopeeController.getDetail)
 router.post("/shopee/update", authentication, ShopeeController.updateStock)
+
+router.post("/users/auth", UserController.auth)
 
 router.post("/tools/photo", OtherController.getPhotoFromWebsite)
 
