@@ -60,7 +60,7 @@ class Sheets {
 
     const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
 
-    const rows = data.values
+    const rows = data.values.filter((x) => x[0] && x[0].length > 7)
 
     const charts = ["S", "M", "L", "XL", "XXL", "XXXL", "26", "28", "30", "32", "34", "36", "38", "TTL"]
 

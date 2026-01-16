@@ -1,8 +1,5 @@
 import { config } from "../config/index.js"
 
-import axios from "axios"
-import fs from "fs"
-
 import Sheets from "../models/Sheets.js"
 
 export default async function updateSheets() {
