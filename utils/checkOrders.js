@@ -25,9 +25,7 @@ export default async function checkOrders(counter = 0) {
 
       config.orders[order_sn] = order
 
-      const reply_markup = {
-        inline_keyboard: [[{ text: order_sn, url: `https://seller.shopee.co.id${odp_url_path_query}` }]],
-      }
+      const reply_markup = { inline_keyboard: [[{ text: order_sn, url: `https://seller.shopee.co.id${odp_url_path_query}` }]] }
 
       const info = item_info_list.map((info) => {
         const { item_list, item_ext_info } = info
@@ -64,7 +62,7 @@ export default async function checkOrders(counter = 0) {
             ],
             [{ text: `TOOLS ${product}`, url: `https://oyen.online/shopee?id=${item_id}` }]
           )
-          
+
           return { url, type, caption, media: { source: null, filename } }
         })
 

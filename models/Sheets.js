@@ -23,7 +23,7 @@ class Sheets {
         universe_domain: "googleapis.com",
       },
       HPAM: {
-        spreadsheetId: "1NvQpB2QdQHoNfk8JbLMv8NrLIKr_1VngzrDobWi8tlc",
+        spreadsheetId: "1zhtgeitq_yjFx78IXRrHZVDDS7TQb8YuqMMT-MwHkZw/",
         type: "service_account",
         project_id: "transmarco-482613",
         private_key_id: "a4bb8dd792bd70b5089ac0e7f1407ecc37d33754",
@@ -61,9 +61,6 @@ class Sheets {
     const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
 
     const rows = data.values
-
-    // const file = fs.readFileSync("./sheets.json", { encoding: "utf-8" })
-    // const rows = JSON.parse(file)
 
     const charts = ["S", "M", "L", "XL", "XXL", "XXXL", "26", "28", "30", "32", "34", "36", "38", "TTL"]
 
