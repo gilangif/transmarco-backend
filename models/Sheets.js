@@ -8,7 +8,7 @@ class Sheets {
   constructor(brand) {
     const credentials = {
       HPAL: {
-        spreadsheetId: "1NvQpB2QdQHoNfk8JbLMv8NrLIKr_1VngzrDobWi8tlc",
+        spreadsheetId: "1qpUHPCv88xaX_OGl7r679TSmtpcj1fKh2E6vO5TmacQ",
         type: "service_account",
         project_id: "studious-karma-439813-n7",
         private_key_id: "503c69d9802bb5e93b1948b26a575ce310759cb4",
@@ -55,46 +55,78 @@ class Sheets {
   async getStock() {
     const { sheets, spreadsheetId, brand } = this
 
-    const range = "STOCK!A1:CQ1000"
+    const range = "INVENTORY!A1:U2000"
     const majorDimension = "ROWS"
 
     const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
 
-    const rows = data.values.filter((x) => x[0] && x[0].length > 7)
-
-    const charts = ["S", "M", "L", "XL", "XXL", "XXXL", "26", "28", "30", "32", "34", "36", "38", "TTL"]
-
     const map = [
-      { range: "A:A", key: "artikel", int: false, stock: false },
-      { range: "B:B", key: "desc", int: false, stock: false },
-      { range: "C:P", key: "stock", int: true, stock: true },
-      { range: "Q:AD", key: "sales", int: true, stock: true },
-      { range: "AE:AR", key: "incoming", int: true, stock: true },
-      { range: "AS:BF", key: "outgoing", int: true, stock: true },
-      { range: "BG:BT", key: "ecomm", int: true, stock: true },
-      { range: "BU:CH", key: "inventory", int: true, stock: true },
-      { range: "CI:CI", key: "reff_code", int: false, stock: false },
-      { range: "CJ:CJ", key: "shopee_id", int: false, stock: false },
-      { range: "CJ:CJ", key: "squ_qty", int: false, stock: false },
-      { range: "CL:CL", key: "code", int: false, stock: false },
-      { range: "CM:CM", key: "sku", int: false, stock: false },
-      { range: "CN:CN", key: "price", int: true, stock: false },
-      { range: "CO:CO", key: "disc", int: false, stock: false },
-      { range: "CP:CP", key: "netto", int: true, stock: false },
-      { range: "CQ:CQ", key: "promo", int: false, stock: false },
+      { range: "A", key: "barcode", int: false },
+      { range: "B", key: "inventory", int: true },
+      { range: "C", key: "reff_code", int: false },
+      { range: "D", key: "shopee_id", int: false },
+      { range: "E", key: "lazada_id", int: false },
+      { range: "F", key: "desc", int: false },
+      { range: "G", key: "price", int: true },
+      { range: "H", key: "promo_type", int: false },
+      { range: "I", key: "netto", int: true },
+      { range: "J", key: "promo", int: false },
+      { range: "K", key: "item", int: false },
+      { range: "L", key: "size", int: false },
+      { range: "M", key: "barcode_alias", int: false },
+      { range: "N", key: "code", int: false },
+      { range: "O", key: "color", int: false },
+      { range: "P", key: "", int: false },
+      { range: "Q", key: "sales", int: true },
+      { range: "R", key: "incoming", int: true },
+      { range: "S", key: "outgoing", int: true },
+      { range: "T", key: "ecomm", int: true },
+      { range: "U", key: "stock", int: true },
     ]
 
-    return parseSheetData(rows, map, charts, brand)
+    return parseSheetData(data.values, map, brand, "item")
   }
 
-  async append() {
+  async getEcomm() {
+    const { sheets, spreadsheetId, brand } = this
+
+    const range = "ECOMM!A1:P2000"
+    const majorDimension = "ROWS"
+
+    const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
+
+    const map = [
+      { range: "A", key: "date", int: false },
+      { range: "B", key: "order_sn", int: false },
+      { range: "C", key: "barcode", int: false },
+      { range: "D", key: "qty", int: true },
+      { range: "E", key: "status", int: false },
+      { range: "F", key: "desc", int: false },
+      { range: "G", key: "product_sku", int: false },
+      { range: "H", key: "product_name", int: false },
+      { range: "I", key: "product_variant", int: false },
+      { range: "J", key: "product_price", int: true },
+      { range: "K", key: "product_status", int: false },
+      { range: "L", key: "product_item_id", int: false },
+      { range: "M", key: "product_model_id", int: false },
+      { range: "N", key: "product_pickup", int: false },
+      { range: "O", key: "data_timestamp", int: false },
+      { range: "P", key: "note", int: false },
+    ]
+
+    return parseSheetData(data.values, map, brand, "barcode")
+  }
+
+  async append(order_sn, barcode, qty, status, sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note) {
+    const { sheets, spreadsheetId } = this
+
     await sheets.spreadsheets.values.append({
       spreadsheetId,
-      range: "Sheet1!A:B",
-      valueInputOption: "RAW",
+      range: "ECOMM!A:P",
+      valueInputOption: "USER_ENTERED",
       insertDataOption: "INSERT_ROWS",
       requestBody: {
-        values: [["6", "g"]],
+        values: [["", order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note]],
       },
     })
   }

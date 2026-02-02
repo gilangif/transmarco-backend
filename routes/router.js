@@ -11,12 +11,23 @@ const router = express.Router()
 
 router.get("/", (req, res) => res.send("It's work !"))
 
-router.get("/sheets", authentication, SheetController.getStock)
+router.get("/sheets/stocks", authentication, SheetController.getStock)
+router.get("/sheets/stocks/now", authentication, SheetController.getStockNow)
+
+router.post("/sheets/stocks/search", authentication, SheetController.searchStock)
+
+router.get("/sheets/ecomm", authentication, SheetController.getEcomm)
+router.post("/sheets/ecomm/add", authentication, SheetController.addEcomm)
+
+router.post("/shopee/order/search", authentication, ShopeeController.searchOrder)
+router.post("/shopee/order/detail", authentication, ShopeeController.getOrderDetail)
 
 router.get("/shopee/boosts", authentication, ShopeeController.getBoosts)
 router.get("/shopee/orders", authentication, ShopeeController.getOrders)
-router.post("/shopee/detail", authentication, ShopeeController.getDetail)
-router.post("/shopee/update", authentication, ShopeeController.updateStock)
+router.get("/shopee/orders/now", authentication, ShopeeController.getOrdersNow)
+
+router.post("/shopee/product/detail", authentication, ShopeeController.getProductDetail)
+router.post("/shopee/product/update", authentication, ShopeeController.updateStock)
 
 router.post("/users/auth", UserController.auth)
 

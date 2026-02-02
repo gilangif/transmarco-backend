@@ -9,6 +9,8 @@ export default async function checkOrders(counter = 0) {
     const shopee = new Shopee()
     const orders = await shopee.getOrders("perlu_dikirim_perlu_diproses")
 
+    config.pesanan = orders
+
     const lists = orders.filter((x) => !config.orders[x.card_header.order_sn])
 
     for (let i = 0; i < lists.length; i++) {
@@ -23,9 +25,9 @@ export default async function checkOrders(counter = 0) {
       const { item_info_list, message } = item_info_group
       const { fulfilment_channel_name, masked_channel_name, ship_out_mode, short_code } = fulfilment_info
 
-      config.orders[order_sn] = order
-
       const reply_markup = { inline_keyboard: [[{ text: order_sn, url: `https://seller.shopee.co.id${odp_url_path_query}` }]] }
+
+      config.orders[order_sn] = order
 
       const info = item_info_list.map((info) => {
         const { item_list, item_ext_info } = info
@@ -33,8 +35,6 @@ export default async function checkOrders(counter = 0) {
         const arr = item_list.map((list) => {
           const { name, image, description, amount, is_wholesale, inner_item_ext_info } = list
           const { item_id, model_id, is_prescription_item } = inner_item_ext_info
-
-          let product = item_id
 
           console.log(`\x1b[90m`)
           console.log(`# ${order_sn}\n  ${name}\n  ${description || "NO VARIANT"}`)
@@ -55,13 +55,11 @@ export default async function checkOrders(counter = 0) {
 
           if (d.includes("HPAL") || d.includes("HPAM") || d.includes("HPC") || d.includes("HPSO") || d.includes("HPU")) caption += "\n\n@pencurilauk @Abductedby_Aliens"
 
-          reply_markup.inline_keyboard.push(
-            [
-              { text: `VIEW`, url: `https://shopee.co.id/product/24819895/${item_id}` },
-              { text: `EDIT ${product}`, url: `https://seller.shopee.co.id/portal/product/${item_id}` },
-            ],
-            [{ text: `TOOLS ${product}`, url: `https://oyen.online/shopee?id=${item_id}` }]
-          )
+          reply_markup.inline_keyboard.push([
+            { text: `VIEW`, url: `https://shopee.co.id/product/24819895/${item_id}` },
+            { text: `EDIT`, url: `https://seller.shopee.co.id/portal/product/${item_id}` },
+            { text: `WEB`, url: `https://oyen.online/shopee?id=${item_id}` },
+          ])
 
           return { url, type, caption, media: { source: null, filename } }
         })

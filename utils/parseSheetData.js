@@ -1,44 +1,38 @@
 import label from "./label.js"
 
-export default function parseSheetData(arr, map, charts, brand) {
+export default function parseSheetData(arr, map, brand, artikel) {
   try {
     const header = arr[0]
-    const body = arr.slice(2)
-
+    const body = arr.slice(1)
     const labels = label(header.length)
 
-    const mapper = map.map((item) => {
-      const [startLabel, endLabel] = item.range.split(":")
+    const mapper = map.map((item) => ({ ...item, index: labels.indexOf(item.range) }))
 
-      const start = labels.indexOf(startLabel)
-      const end = labels.indexOf(endLabel)
+    const results = body.map((r, i) => {
+      const tmp = { range: {} }
 
-      return { ...item, start, end }
-    })
+      mapper.forEach((item, j) => {
+        const { key, range, index, int } = item
 
-    const result = body.map((row) => {
-      const tmp = {}
+        if (!key) return
 
-      mapper.forEach(({ key, range, start, end, int, stock }) => {
-        const col = row.slice(start, end + 1)
+        const c = r[index]
 
-        if (stock) {
-          tmp[key + "_field"] = col.map((v) => (int ? Number(v) || 0 : v || ""))
-          tmp[key] = Object.fromEntries(charts.map((c, i) => [tmp["artikel"] + c, int ? Number(col[i]) || 0 : col[i] || ""]))
+        const row = i + 1 + 1 // add 1 because indexing from zero and add 1 row header
+        const col = j + 1
+        const cell = `${range}${row}`
 
-          return
-        }
+        tmp["range"][key] = { row, col, cell }
 
-        if (col.length === 1) tmp[key] = int ? Number(col[0].replace(/\./g, "")) || 0 : col[0] || ""
+        tmp[key] = int ? parseInt(String(c)?.replace(/[.,]/g, "") || 0) || 0 : c || ""
       })
 
-      return { brand, art: tmp["artikel"].slice(0, 7), ...tmp }
+      return { brand, artikel: tmp[artikel].slice(0, 7), ...tmp }
     })
 
-    return result
+    return results
   } catch (error) {
-    console.log("📢[:40]: ", error)
-
+    console.log("📢[:30]: ", error)
     return {}
   }
 }

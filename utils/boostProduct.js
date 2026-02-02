@@ -7,7 +7,7 @@ export default async function boostProducts() {
   try {
     await new Promise((resolve) => setTimeout(resolve, 3000))
 
-    const data = config.sheets.filter((x) => x.brand === "HPAL" && /^\d+$/.test(x.shopee_id))
+    const data = config.stocks.filter((x) => x.brand === "HPAL" && /^\d+$/.test(x.shopee_id))
     const products = Array.from(new Map(data.map((item) => [item.shopee_id, item])).values())
 
     const shopee = new Shopee()
@@ -19,15 +19,15 @@ export default async function boostProducts() {
       const random = getRandoms(products, 5 - boosts.length)
 
       for (const item of random) {
-        const { shopee_id, desc, art } = item
+        const { shopee_id, desc, barcode } = item
 
         const product_id = parseInt(shopee_id)
         const boosting = await shopee.setBoost(product_id)
 
-        const caption = `# Boost product ${desc} ${art}\n# ${product_id}\n\n# ${boosting.message || boosting.msg || "unknown boosting status"}`
+        const caption = `# Boost product ${desc} ${barcode}\n# ${product_id}\n\n# ${boosting.message || boosting.msg || "unknown boosting status"}`
 
         console.log("\x1b[0m")
-        console.log(`# Boost product ${desc} ${art} (${product_id})`)
+        console.log(`# Boost product ${desc} ${barcode} (${product_id})`)
         console.log(`  ${boosting.message}`)
         console.log("\x1b[0m")
 

@@ -2,27 +2,31 @@ import { JWT_SECRET } from "../config/index.js"
 
 import jwt from "jsonwebtoken"
 
-
 const db = [
   {
     username: "hpal",
     password: "hpal",
+    brand: "HPAL",
   },
   {
     username: "hpam",
     password: "hpam",
+    brand: "HPAM",
   },
   {
     username: "hpbl",
     password: "hpbl",
+    brand: "HPBL",
   },
   {
     username: "hpm",
     password: "hpm",
+    brand: "HPM",
   },
   {
     username: "app",
     password: "app",
+    brand: "APP",
   },
 ]
 
@@ -37,7 +41,7 @@ class AuthController {
       const user = db.find((x) => x.username === username && x.password === password)
       if (!user) throw message
 
-      res.json({ username, accessToken: jwt.sign({ username }, JWT_SECRET, { expiresIn: "31d" }) })
+      res.json({ username, brand: user.brand, accessToken: jwt.sign({ username, brand: user.brand }, JWT_SECRET, { expiresIn: "31d" }) })
     } catch (error) {
       next(error)
     }

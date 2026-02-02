@@ -20,15 +20,15 @@ class Shopee {
     this.params = { SPC_CDS: this.SPC_CDS, SPC_CDS_VER: this.SPC_CDS_VER }
 
     this.headers = {
-      Host: "seller.shopee.co.id",
       "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0",
-      Accept: "application/json, text/plain, */*",
       "Accept-Language": "en-US,en;q=0.5",
       "Accept-Encoding": "gzip, deflate, br",
-      Locale: "id",
       "Sec-Fetch-Dest": "empty",
       "Sec-Fetch-Mode": "cors",
       "Sec-Fetch-Site": "same-origin",
+      Host: "seller.shopee.co.id",
+      Accept: "application/json, text/plain, */*",
+      Locale: "id",
       Te: "trailers",
       Cookie: `SPC_CDS=${this.SPC_CDS}; ${this.cookies}`,
     }
@@ -52,7 +52,7 @@ class Shopee {
         const date = new Date(now.getTime() + cool_down_seconds * 1000)
         const estimate = timestamp(date)
 
-        const detail = await this.getDetail(id)
+        const detail = await this.getProductDetail(id)
 
         const name = detail.name
         const boost_id = String(id) + "_" + timestamp(date).toUpperCase().replace(",", "").split(" ").join("_")
@@ -159,11 +159,22 @@ class Shopee {
     return orders
   }
 
-  async getDetail(product_id) {
+  async getOrderDetail(order_id) {
+    const { params, headers } = this
+    const { data } = await axios.get("https://seller.shopee.co.id/api/v3/order/get_one_order", { params: { ...params, order_id }, headers })
+
+    return data
+  }
+
+  async getProductDetail(product_id) {
     const { SPC_CDS, SPC_CDS_VER, headers, product_location } = this
     const { data } = await axios.get("https://seller.shopee.co.id/api/v3/product/get_product_info", { params: { SPC_CDS, SPC_CDS_VER, product_id, is_draft: "false" }, headers })
 
     if (data.code) throw data
+
+    // fs.writeFileSync("detail.json",  JSON.stringify(data, null, 2))
+
+    // const data = JSON.parse(fs.readFileSync("detail.json", { encoding: "utf-8" }))
 
     const product = data.data.product_info
 
@@ -276,19 +287,13 @@ class Shopee {
   }
 
   async setStock(product_id, model_list) {
-    try {
-      const { SPC_CDS, SPC_CDS_VER, headers, product_location } = this
+    const { SPC_CDS, SPC_CDS_VER, headers } = this
 
-      const data = { product_id: parseInt(product_id), product_info: { model_list }, is_draft: false }
-      const { data: result } = await axios.post("https://seller.shopee.co.id/api/v3/product/update_product_info", data, { params: { SPC_CDS, SPC_CDS_VER }, headers })
+    const obj = { product_id: parseInt(product_id), product_info: { model_list }, is_draft: false }
 
-      if (result.code) throw result
+    const { data } = await axios.post("https://seller.shopee.co.id/api/v3/product/update_product_info", obj, { params: { SPC_CDS, SPC_CDS_VER }, headers })
 
-      return result
-    } catch (error) {
-      console.log({ error, source: "Shopee getStock" })
-      return { error, failed: true }
-    }
+    return data
   }
 
   async setBoost(id) {
@@ -302,6 +307,23 @@ class Shopee {
     } catch (error) {
       return { error, failed: true }
     }
+  }
+
+  async searchOrders(keyword = "", type) {
+    const { params: prms, headers } = this
+
+    let category = "1"
+
+    if (type === "no_pesanan") category = "1"
+    if (type === "nama_pembeli") category = "2"
+    if (type === "no_resi") category = "3"
+    if (type === "produk") category = "4"
+
+    const params = { ...prms, keyword, category, order_list_tab: "100", entity_type: "1", fulfillment_source: "0" }
+
+    const { data } = await axios.get("https://seller.shopee.co.id/api/v3/order/get_order_list_search_bar_hint", { params, headers })
+
+    return data
   }
 }
 
