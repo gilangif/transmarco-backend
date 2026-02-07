@@ -23,7 +23,7 @@ class Sheets {
         universe_domain: "googleapis.com",
       },
       HPAM: {
-        spreadsheetId: "1zhtgeitq_yjFx78IXRrHZVDDS7TQb8YuqMMT-MwHkZw",
+        spreadsheetId: "1hnFxSxotvNQGSiS_0pOgu9sDyazKHuZPWK7zbTkO25w",
         type: "service_account",
         project_id: "transmarco-482613",
         private_key_id: "a4bb8dd792bd70b5089ac0e7f1407ecc37d33754",
@@ -118,17 +118,29 @@ class Sheets {
   }
 
   async append(order_sn, barcode, qty, status, sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note) {
-    const { sheets, spreadsheetId } = this
+    try {
+      const { sheets, spreadsheetId } = this
 
-    await sheets.spreadsheets.values.append({
-      spreadsheetId,
-      range: "ECOMM!A:P",
-      valueInputOption: "USER_ENTERED",
-      insertDataOption: "INSERT_ROWS",
-      requestBody: {
-        values: [["", order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note]],
-      },
-    })
+      const res = await sheets.spreadsheets.values.get({ spreadsheetId, range: "ECOMM!B:B" })
+
+      const lastRow = res.data.values ? res.data.values.length : 1
+      const nextRow = lastRow + 1
+
+      const date = new Date().getDay()
+
+      const values = [[date, order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note]]
+
+      await sheets.spreadsheets.values.update({
+        spreadsheetId,
+        range: `ECOMM!A${nextRow}:P${nextRow}`,
+        valueInputOption: "USER_ENTERED",
+        requestBody: {
+          values,
+        },
+      })
+    } catch (error) {
+      console.log("📢[:143]: ", error)
+    }
   }
 }
 

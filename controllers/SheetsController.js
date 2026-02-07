@@ -114,10 +114,12 @@ class SheetController {
       const item = config.stocks.find((x) => x.barcode === barcode)
       const filter = ecomm.filter((x) => x.order_sn === order_sn)
 
+      const price = order_price * qty
+
       if (!item) throw { status: 400, message: `barcode ${barcode} not exists` }
       if (filter.length > 0) filter.forEach((x) => message.push(`barcode ${x.order_sn} sudah digunakan untuk ${x.barcode}`))
 
-      const add = await sheets.append(order_sn, barcode, qty, status, sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note)
+      const add = await sheets.append(order_sn, barcode, qty, status, sku_variant, product_name, variant_name, price, status_info, item_id, model_id, shipping, timestamp, note)
 
       res.json({ ...add, message, success: true })
     } catch (error) {
