@@ -10,7 +10,7 @@ export default async function updateSheets() {
     const c = new Sheets("HPAM")
     const d = await c.getStock()
 
-    const e = new Sheets("HPAM")
+    const e = new Sheets("HPSL")
     const f = await e.getStock()
 
     config.stocks = [...b, ...d, ...f]
