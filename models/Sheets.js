@@ -37,6 +37,21 @@ class Sheets {
         client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/transmarco-831%40transmarco-482613.iam.gserviceaccount.com",
         universe_domain: "googleapis.com",
       },
+      HPSL: {
+        spreadsheetId: "1-YL1IMi7bSCVEfwobTVphCD1HbzaNVCZWlcZ61y4GZY",
+        type: "service_account",
+        project_id: "transmarco-482613",
+        private_key_id: "a4bb8dd792bd70b5089ac0e7f1407ecc37d33754",
+        private_key:
+          "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfV1pU3aanTswO\ng0DODa04rSj95eOsx/Xay/XcmdTOWbG2lsEH0wmuBZ4YOgn5thdGw/pDF/QZ3Vcv\nHMAk0n/dakE5ejZNfrGmaAsWxvy0yeD9kwCvQ5HLPGKe0fJmtqBc40MhT9TuF477\n6BCt9kzb//araKnX5wWnvo1gizGY6TuMSuYsM4nM5nud/daybcuzvyvkEQvLNDTO\nzEcdPBUwGw4aEkOw+EKsNd5vjOCs/0gUp3vXGF51v4BMRLe6+bLoxggZzPZckKfy\n2mJV1WpU7K3iHVmVmpAP1pV0o8AxBzG4ZcC+houIL8HovSQuWK6JFfGcjdlplrz6\nKBqy5x9lAgMBAAECggEABlV1e965sEUQe6bNAMPVAsxwG80zffVCErOKPBdWhbaI\n1JsgF8lt3sYbZDDxn5FhuHuznk7v8mB0uQszOhauykreExGGe6seSnqW4kEAeS4P\n+WE9pQar33PKVpZxRJL2EFGT8NmL1Pdu+BisvQ8hPAEfOYepPktRIFT4D4JI81NW\nBnls8gwCFIAv2DWwZAv284xI4jBMGMZkH8TqPKM6o+gFZlMM5ZSY4Vo+VCKwOjx6\n7KMc4F1ItNEt2eLjTygSnwvgMQ/dlxnuWeqw6vg2ZypS3y5YXbxbUkP6d+WIW1VS\n4j6u/ZNAMSO8kXeUFMP8J6jUC6YubgWI8/sZHBIHMQKBgQDQPmy6tw7qX/aBDyl1\n7YSf9KrMtZo24QSQK3wFhnisAu9csFeGARnlMsOETdpo8XAesdutZW6TXDbB3DA5\nu7Xhl88A5sO1Hv7z217vjvmFr+jlEg2NApEcjhiFOXdWFsTxyxBLFyiko8qkjbWA\n7+92K+m1Iz5+2rjnd1sBgy0zOQKBgQDD4fQzHY0C0tNjTY5hj8gBXyVjjBi4mzVr\n4b1klkuD6XKX5eCXjkBfWLD9jf9bWac9y23XKaVdQ731pgug93ROPlVfSypTtV3V\nAc9OudDSKZOlcgHKisUwJrTNm3yTrvYFXKpt2vQwBlWO1gS5Y6X80YtZn2Lw1xj5\ng9uBadQxjQKBgCCGX30aMl4w9tNZhuRAYMKK+FJY2ulPY+MQp6JFSnuzSad0c3ce\nnOjLcPYtIrvZWeWxado/SXICqRrGRVH/G31MtKwzXsXfPXrg/Ib2EcrrmriMhUlM\n6VVIbFQCkb0EeWY6jSTtTQ/J9VCWQY8N6pzOZwY/pvcxOkgMwE4QKvMhAoGBAIh8\ny+xF/fhmsHZ0Fu6yAdm601GOz7bqJwoZzB7nfozWwEtJGPphW0dUhFbYd4LOcHLl\naY7P7PKUfitJXLb3VaojUtdIh6C2MkB2t12SqgeWgtN4IflgQk/v2HGfkulQswo/\nbF2JgDZqY3lYdQg8f+8ujxuOrKFGL5fEodGFzR4NAoGAUA00NZ+651xb1Mcqr7ee\nFMvFIlYuQEKzTn9Lyv30cNVSvmrACr4ugotCo9WnwAcyalyZqleJ035CGR4Rl9Gg\nZN6tKB88+4VEtkS49jLMHuveMTxtf+qg9Wc9W11HwXhBdpUEk6N7A9yftjzty9Kw\nmd0n/ymojjWg5UsfO/qjWCg=\n-----END PRIVATE KEY-----\n",
+        client_email: "transmarco-831@transmarco-482613.iam.gserviceaccount.com",
+        client_id: "105534025070186600808",
+        auth_uri: "https://accounts.google.com/o/oauth2/auth",
+        token_uri: "https://oauth2.googleapis.com/token",
+        auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs",
+        client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/transmarco-831%40transmarco-482613.iam.gserviceaccount.com",
+        universe_domain: "googleapis.com",
+      },
     }
 
     this.brand = brand
