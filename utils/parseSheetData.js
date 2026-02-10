@@ -30,7 +30,7 @@ export default function parseSheetData(arr, map, brand, artikel) {
       return { brand, artikel: tmp[artikel].slice(0, 7), ...tmp }
     })
 
-    return results
+    return results.filter((x) => x.barcode)
   } catch (error) {
     console.log("📢[:30]: ", error)
     return {}
