@@ -10,7 +10,10 @@ export default async function updateSheets() {
     const c = new Sheets("HPAM")
     const d = await c.getStock()
 
-    config.stocks = [...b, ...d]
+    const e = new Sheets("HPAM")
+    const f = await e.getStock()
+
+    config.stocks = [...b, ...d, ...f]
 
     const brands = [...new Set(config.stocks.map((x) => x.brand))]
 
@@ -23,6 +26,6 @@ export default async function updateSheets() {
   } catch (error) {
     console.log({ error, source: "updateSheets function" })
   } finally {
-    setTimeout(() => updateSheets(), 1 * 60 * 1000)
+    setTimeout(() => updateSheets(), 1 * 30 * 1000)
   }
 }
