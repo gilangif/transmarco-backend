@@ -32,5 +32,6 @@ router.post("/shopee/product/update", authentication, ShopeeController.updateSto
 router.post("/users/auth", UserController.auth)
 
 router.post("/tools/photo", OtherController.getPhotoFromWebsite)
+router.post("/photo/generator", OtherController.photoGenerator)
 
 export default router
