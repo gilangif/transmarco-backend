@@ -23,7 +23,7 @@ class Sheets {
         universe_domain: "googleapis.com",
       },
       HPAM: {
-        spreadsheetId: "1hnFxSxotvNQGSiS_0pOgu9sDyazKHuZPWK7zbTkO25w",
+        spreadsheetId: "1J3MFCfrE27-LmlqaUAiI33YzaFA3chAcKXIdCVn2Qec",
         type: "service_account",
         project_id: "transmarco-482613",
         private_key_id: "a4bb8dd792bd70b5089ac0e7f1407ecc37d33754",
@@ -141,7 +141,7 @@ class Sheets {
       const lastRow = res.data.values ? res.data.values.length : 1
       const nextRow = lastRow + 1
 
-      const date = new Date().getDay()
+      const date = new Date().getDate()
 
       const values = [[date, order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note]]
 
