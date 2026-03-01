@@ -8,7 +8,7 @@ class Sheets {
   constructor(brand) {
     const credentials = {
       HPAL: {
-        spreadsheetId: "1akR1OnqxN7B7JnYn435KjiFkZy24oUFq853kH5vVe1w",
+        spreadsheetId: "1Hn1eRvRVIOwvH4qA96N-qcqk1HMmP8MvdaxCqTp1Tgw",
         type: "service_account",
         project_id: "studious-karma-439813-n7",
         private_key_id: "503c69d9802bb5e93b1948b26a575ce310759cb4",

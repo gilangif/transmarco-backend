@@ -99,8 +99,6 @@ class Photo {
     } catch (error) {
       return []
     }
-
-    // fs.writeFileSync("abc.html", response.data)
   }
 
   async nineToNine() {
