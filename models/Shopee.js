@@ -68,7 +68,7 @@ class Shopee {
     return results.filter((x) => x)
   }
 
-  async getOrders(type, page) {
+  async getOrders(type, page_number, page_sentinel) {
     const { SPC_CDS, SPC_CDS_VER, headers, product_id, product_location } = this
 
     const config = { params: { SPC_CDS, SPC_CDS_VER }, headers }
@@ -99,10 +99,11 @@ class Shopee {
       order_list_tab,
       entity_type: 1,
       pagination: { from_page_number: 1, page_number: 1, page_size: 200 },
-      // pagination: { from_page_number: 2, page_number: 3, page_size: 40, page_sentinel: '1766654888,220354027232785' },
       filter: { fulfillment_type: 0, is_drop_off: 0, action_filter: 0, fulfillment_source: 0 },
       sort: {},
     }
+
+    if (page_number && page_sentinel) data.pagination = { page_sentinel, page_number, page_size: 200 }
 
     if (type === "semua") {
       data.entity_type = 0
@@ -135,16 +136,21 @@ class Shopee {
     if (type === "selesai") data.entity_type = 1
     if (type === "belum_bayar") data.entity_type = 1
 
+    const results = []
+
     const { data: lists } = await axios.post("https://seller.shopee.co.id/api/v3/order/search_order_list_index", data, config)
     const { index_list, pagination, search_notice_info } = lists.data || {}
+    const { total, page_number: current_page, page_size, next_page_sentinel, previous_page_sentinel } = pagination || {}
+
+    index_list.forEach((x) => results.push(x))
 
     if (lists.code) throw lists
 
-    const arr = Array.from({ length: Math.ceil(index_list.length / 5) + 1 }, async (x, i) => {
+    const arr = Array.from({ length: Math.ceil(results.length / 5) + 1 }, async (x, i) => {
       try {
         const data = { order_list_tab, need_count_down_desc: true }
 
-        data[category[type]] = index_list.slice(i * 5, i * 5 + 5)
+        data[category[type]] = results.slice(i * 5, i * 5 + 5)
 
         const { data: orders } = await axios.post("https://seller.shopee.co.id/api/v3/order/get_order_list_card_list", data, config)
 
@@ -155,6 +161,12 @@ class Shopee {
     })
 
     const orders = (await Promise.all(arr)).flat().filter((x) => x)
+
+    if (total > 200 && index_list.length === 200 && type === "perlu_dikirim_perlu_diproses") {
+      const next = await this.getOrders(type, current_page + 1, next_page_sentinel)
+
+      return [...next, ...orders]
+    }
 
     return orders
   }

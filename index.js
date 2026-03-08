@@ -10,9 +10,9 @@ import router from "./routes/router.js"
 const app = express()
 const port = 1234
 
-updateSheets()
-boostProducts()
-checkOrders()
+// updateSheets()
+// boostProducts()
+// checkOrders()
 
 app.use(cors())
 
