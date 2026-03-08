@@ -40,7 +40,7 @@ class OtherController {
       if (!type) throw { status: 400, message: "type is not provided" }
       if (!lists) throw { status: 400, message: "invalid merchant type" }
 
-      const { host, search } = new URL(url)
+      const { host, search, searchParams } = new URL(url)
 
       let method = type
 
@@ -57,7 +57,8 @@ class OtherController {
         let results = []
 
         if (method === "zalora") {
-          const lists = await photo.zaloraSearch(search)
+          const query = searchParams.get("q") || search
+          const lists = await photo.zaloraAPISearch(query)
 
           const arr = lists.map(async (url) => {
             try {

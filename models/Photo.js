@@ -76,7 +76,7 @@ class Photo {
     return result
   }
 
-  async zaloraSearch(query) {
+  async zaloraAPISearch(query) {
     try {
       const { data: results } = await axios.get("https://api.zalora.co.id/v1/dynproducts/datajet/list", {
         params: { enableRelevanceClassifier: "true", fullFacetCategory: "true", limit: "30", offset: "0", query, shop: "m" },
