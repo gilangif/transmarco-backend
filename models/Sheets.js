@@ -70,7 +70,7 @@ class Sheets {
   async getStock() {
     const { sheets, spreadsheetId, brand } = this
 
-    const range = "INVENTORY!A1:U2000"
+    const range = "INVENTORY!A1:V2000"
     const majorDimension = "ROWS"
 
     const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
