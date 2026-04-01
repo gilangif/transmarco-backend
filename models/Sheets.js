@@ -96,7 +96,8 @@ class Sheets {
       { range: "R", key: "incoming", int: true },
       { range: "S", key: "outgoing", int: true },
       { range: "T", key: "ecomm", int: true },
-      { range: "U", key: "stock", int: true },
+      { range: "U", key: "stock_data", int: true },
+      { range: "V", key: "stock", int: true },
     ]
 
     return parseSheetData(data.values, map, brand, "item")
