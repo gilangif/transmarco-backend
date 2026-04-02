@@ -138,7 +138,7 @@ class Sheets {
     try {
       const { sheets, spreadsheetId } = this
 
-      const res = await sheets.spreadsheets.values.get({ spreadsheetId, range: "ECOMM!B:B" })
+      const res = await sheets.spreadsheets.values.get({ spreadsheetId, range: "ECOMM!B:C" })
 
       const lastRow = res.data.values ? res.data.values.length : 1
       const nextRow = lastRow + 1
@@ -151,7 +151,7 @@ class Sheets {
 
       await sheets.spreadsheets.values.update({
         spreadsheetId,
-        range: `ECOMM!A${nextRow}:P${nextRow}`,
+        range: `ECOMM!A${nextRow}:Q${nextRow}`,
         valueInputOption: "USER_ENTERED",
         requestBody: {
           values,
