@@ -106,7 +106,7 @@ class Sheets {
   async getEcomm() {
     const { sheets, spreadsheetId, brand } = this
 
-    const range = "ECOMM!A1:P2000"
+    const range = "ECOMM!A1:Q2000"
     const majorDimension = "ROWS"
 
     const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
