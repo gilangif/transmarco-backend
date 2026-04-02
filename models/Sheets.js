@@ -113,27 +113,28 @@ class Sheets {
 
     const map = [
       { range: "A", key: "date", int: false },
-      { range: "B", key: "order_sn", int: false },
-      { range: "C", key: "barcode", int: false },
-      { range: "D", key: "qty", int: true },
-      { range: "E", key: "status", int: false },
-      { range: "F", key: "desc", int: false },
-      { range: "G", key: "product_sku", int: false },
-      { range: "H", key: "product_name", int: false },
-      { range: "I", key: "product_variant", int: false },
-      { range: "J", key: "product_price", int: true },
-      { range: "K", key: "product_status", int: false },
-      { range: "L", key: "product_item_id", int: false },
-      { range: "M", key: "product_model_id", int: false },
-      { range: "N", key: "product_pickup", int: false },
-      { range: "O", key: "data_timestamp", int: false },
-      { range: "P", key: "note", int: false },
+      { range: "B", key: "shipping_trace_number", int: false },
+      { range: "C", key: "order_sn", int: false },
+      { range: "D", key: "barcode", int: false },
+      { range: "E", key: "qty", int: true },
+      { range: "F", key: "status", int: false },
+      { range: "G", key: "desc", int: false },
+      { range: "H", key: "product_sku", int: false },
+      { range: "I", key: "product_name", int: false },
+      { range: "J", key: "product_variant", int: false },
+      { range: "K", key: "product_price", int: true },
+      { range: "L", key: "product_status", int: false },
+      { range: "M", key: "product_item_id", int: false },
+      { range: "N", key: "product_model_id", int: false },
+      { range: "O", key: "product_pickup", int: false },
+      { range: "P", key: "data_timestamp", int: false },
+      { range: "Q", key: "note", int: false },
     ]
 
     return parseSheetData(data.values, map, brand, "barcode")
   }
 
-  async append(order_sn, barcode, qty, status, sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note) {
+  async append(shipping_trace_number, order_sn, barcode, qty, status, sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note) {
     try {
       const { sheets, spreadsheetId } = this
 
@@ -144,7 +145,9 @@ class Sheets {
 
       const date = new Date().getDate()
 
-      const values = [[date, order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note]]
+      const values = [
+        [date, shipping_trace_number, order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note],
+      ]
 
       await sheets.spreadsheets.values.update({
         spreadsheetId,

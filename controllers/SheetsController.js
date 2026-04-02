@@ -81,6 +81,7 @@ class SheetController {
     try {
       const {
         order_sn,
+        shipping_trace_number,
         barcode,
         qty = 0,
         sku_variant = "",
@@ -97,6 +98,7 @@ class SheetController {
 
       const { brand } = req.user || {}
 
+      if (!shipping_trace_number) throw { status: 400, message: "shipping_trace_number is not provided" }
       if (!order_sn) throw { status: 400, message: "order_sn is not provided" }
       if (!barcode) throw { status: 400, message: "barcode is not provided" }
       if (qty < 1) throw { status: 400, message: "qty must be greater than zero" }
@@ -119,7 +121,7 @@ class SheetController {
       if (!item) throw { status: 400, message: `barcode ${barcode} not exists` }
       if (filter.length > 0) filter.forEach((x) => message.push(`barcode ${x.order_sn} sudah digunakan untuk ${x.barcode}`))
 
-      const add = await sheets.append(order_sn, barcode, qty, status, sku_variant, product_name, variant_name, price, status_info, item_id, model_id, shipping, timestamp, note)
+      const add = await sheets.append(shipping_trace_number, order_sn, barcode, qty, status, sku_variant, product_name, variant_name, price, status_info, item_id, model_id, shipping, timestamp, note)
 
       res.json({ ...add, message, success: true })
     } catch (error) {
