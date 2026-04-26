@@ -14,11 +14,6 @@ const db = [
     brand: "HPAM",
   },
   {
-    username: "hpsl",
-    password: "hpsl",
-    brand: "HPSL",
-  },
-  {
     username: "hpbl",
     password: "hpbl",
     brand: "HPBL",
@@ -27,6 +22,11 @@ const db = [
     username: "hpm",
     password: "hpm",
     brand: "HPM",
+  },
+   {
+    username: "obam",
+    password: "obam",
+    brand: "OBAM",
   },
   {
     username: "app",
