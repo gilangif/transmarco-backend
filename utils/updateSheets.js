@@ -17,7 +17,7 @@ export default async function updateSheets() {
     const h = await g.getStock()
 
     const i = new Sheets("HPSO")
-    const j = await g.getStock()
+    const j = await i.getStock()
 
     config.stocks = [...b, ...d, ...f, ...h, ...j]
 
