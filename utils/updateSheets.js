@@ -16,7 +16,10 @@ export default async function updateSheets() {
     const g = new Sheets("OBAM")
     const h = await g.getStock()
 
-    config.stocks = [...b, ...d, ...f, ...h]
+    const i = new Sheets("HPSO")
+    const j = await g.getStock()
+
+    config.stocks = [...b, ...d, ...f, ...h, ...j]
 
     const brands = [...new Set(config.stocks.map((x) => x.brand))]
 

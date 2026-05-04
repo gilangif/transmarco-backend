@@ -23,6 +23,11 @@ const db = [
     password: "hpm",
     brand: "HPM",
   },
+  {
+    username: "hpso",
+    password: "hpso",
+    brand: "HPSO",
+  },
    {
     username: "obam",
     password: "obam",
