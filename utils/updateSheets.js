@@ -4,22 +4,68 @@ import Sheets from "../models/Sheets.js"
 
 export default async function updateSheets() {
   try {
-    const a = new Sheets("HPAL")
-    const b = await a.getStock()
+    const hpal = new Sheets("HPAL")
+    const hpal_data = await hpal.getStock()
 
-    const c = new Sheets("HPAM")
-    const d = await c.getStock()
+    const hpam = new Sheets("HPAM")
+    const hpam_data = await hpam.getStock()
 
-    const e = new Sheets("HPM")
-    const f = await e.getStock()
+    const hpbl = new Sheets("HPBL")
+    const hpbl_data = await hpbl.getStock()
 
-    const g = new Sheets("OBAM")
-    const h = await g.getStock()
+    const hpbm = new Sheets("HPBM")
+    const hpbm_data = await hpbm.getStock()
 
-    const i = new Sheets("HPSO")
-    const j = await i.getStock()
+    const hpm = new Sheets("HPM")
+    const hpm_data = await hpm.getStock()
 
-    config.stocks = [...b, ...d, ...f, ...h, ...j]
+    const hpl = new Sheets("HPL")
+    const hpl_data = await hpl.getStock()
+
+    const hpso = new Sheets("HPSO")
+    const hpso_data = await hpso.getStock()
+
+    const obam = new Sheets("OBAM")
+    const obam_data = await obam.getStock()
+
+    const obbl = new Sheets("OBBL")
+    const obbl_data = await obbl.getStock()
+
+    const obl = new Sheets("OBL")
+    const obl_data = await obl.getStock()
+
+    const obm = new Sheets("OBM")
+    const obm_data = await obm.getStock()
+
+    const obbm = new Sheets("OBBM")
+    const obbm_data = await obbm.getStock()
+
+    const plm = new Sheets("PLM")
+    const plm_data = await plm.getStock()
+
+    const pll = new Sheets("PLL")
+    const pll_data = await pll.getStock()
+
+    const cat = new Sheets("CAT")
+    const cat_data = await cat.getStock()
+
+    config.stocks = [
+      ...hpal_data,
+      ...hpam_data,
+      ...hpbl_data,
+      ...hpbm_data,
+      ...hpl_data,
+      ...hpm_data,
+      ...hpso_data,
+      ...obam_data,
+      ...obbl_data,
+      ...obl_data,
+      ...obm_data,
+      ...obbm_data,
+      ...plm_data,
+      ...pll_data,
+      ...cat_data,
+    ]
 
     const brands = [...new Set(config.stocks.map((x) => x.brand))]
 

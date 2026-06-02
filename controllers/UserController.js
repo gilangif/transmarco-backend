@@ -19,24 +19,64 @@ const db = [
     brand: "HPBL",
   },
   {
+    username: "hpbm",
+    password: "hpbm",
+    brand: "HPBM",
+  },
+  {
     username: "hpm",
     password: "hpm",
     brand: "HPM",
+  },
+  {
+    username: "hpl",
+    password: "hpl",
+    brand: "HPL",
   },
   {
     username: "hpso",
     password: "hpso",
     brand: "HPSO",
   },
-   {
+  {
     username: "obam",
     password: "obam",
     brand: "OBAM",
   },
   {
-    username: "app",
-    password: "app",
-    brand: "APP",
+    username: "obbl",
+    password: "obbl",
+    brand: "OBBL",
+  },
+  {
+    username: "obl",
+    password: "obl",
+    brand: "OBBL",
+  },
+  {
+    username: "obm",
+    password: "obm",
+    brand: "OBM",
+  },
+  {
+    username: "obbm",
+    password: "obbm",
+    brand: "OBBM",
+  },
+  {
+    username: "pll",
+    password: "pll",
+    brand: "PLL",
+  },
+  {
+    username: "plm",
+    password: "plm",
+    brand: "PLM",
+  },
+  {
+    username: "cat",
+    password: "cat",
+    brand: "CAT",
   },
 ]
 

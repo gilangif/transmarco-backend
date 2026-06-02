@@ -1,9 +1,9 @@
 {
-  "url": "https://shopee.co.id/product/24819895/57854389232",
+  "url": "https://seller.shopee.co.id/portal/sale/order?type=toship&source=to_process",
   "cookies": [
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1785681762,
+      "expirationDate": 1788094209,
       "hostOnly": false,
       "httpOnly": false,
       "name": "_fbp",
@@ -42,7 +42,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1812186253.762181,
+      "expirationDate": 1814668769.459242,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_CLIENTID",
@@ -68,7 +68,7 @@
     },
     {
       "domain": "shopee.co.id",
-      "expirationDate": 1809441762,
+      "expirationDate": 1811854199,
       "hostOnly": true,
       "httpOnly": false,
       "name": "REC7iLP4Q",
@@ -93,60 +93,8 @@
       "value": "YLUjPLZfnDmWqOsiwBFkqtKMpZExUBMW"
     },
     {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1812267211.097516,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "_lang",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "id_ID"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1782284813.433222,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "cna",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "jTzhIDtSTRMCAS/2pIwX2A3l"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1785308813.811893,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "t_fv",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "1750748813811"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1785308813.812506,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "t_uid",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "VSqGejoz9by4vY8KxS9FtH4VNhnqGWDY"
-    },
-    {
       "domain": ".shopee.co.id",
-      "expirationDate": 1777992162.58476,
+      "expirationDate": 1780453006.635514,
       "hostOnly": false,
       "httpOnly": true,
       "name": "SPC_SI",
@@ -156,97 +104,6 @@
       "session": false,
       "storeId": "0",
       "value": "cjtaaAAAAABpeW05Y1RqeewUpwMAAAAAd2RWUEczV1g="
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1793366335.747116,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "lwrid",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "AgGXtXxGK9mpcCq2TFRy2RpuI%2BOq"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1782661310.037019,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "lzd_cid",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "c6ea0ca1-8081-495e-a525-2108aed91c65"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1795664089,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "_tt_enable_cookie",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "1"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1795664089,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "_ttp",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "01K8YQPT6V539T71WB2CZJBES0_.tt.2"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1795836890,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "__qca",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "P1-f759e37f-694e-4c23-a13f-771fd0fd9b0c"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1795664091,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "ttcsid",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "1761968089312::d0ZQ0zu3NGmeQ-ULr2ZZ.1.1761968091131.0"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1795664091,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "ttcsid_CKFVHARC77UF4DI9SUDG",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "1761968089311::7xAw2cCmiFtsK1BmiHsG.1.1761968091131.0"
     },
     {
       "domain": ".shopee.co.id",
@@ -276,7 +133,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1785681762,
+      "expirationDate": 1788094209,
       "hostOnly": false,
       "httpOnly": false,
       "name": "_fbc",
@@ -366,56 +223,30 @@
       "value": "GS2.1.s1776084408$o1$g1$t1776084764$j60$l0$h0"
     },
     {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1778749730.026663,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "hng",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "ID|id-ID|IDR|360"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1778749730.026742,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "hng.sig",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "to18pG508Hzz7EPB_okhuQu8kDUP3TDmLlnu4IbIOY8"
-    },
-    {
       "domain": ".shopee.co.id",
-      "expirationDate": 1784376502,
+      "expirationDate": 1811482190.683672,
       "hostOnly": false,
       "httpOnly": false,
-      "name": "_gcl_gs",
+      "name": "_ga_QMX630BLLS",
       "path": "/",
       "sameSite": "unspecified",
       "secure": false,
       "session": false,
       "storeId": "0",
-      "value": "2.1.k1$i1776600500$u174351712"
+      "value": "GS2.1.s1776922190$o9$g0$t1776922190$j60$l0$h0"
     },
     {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1784376503,
-      "hostOnly": false,
+      "domain": "shopee.co.id",
+      "expirationDate": 1812000466.289509,
+      "hostOnly": true,
       "httpOnly": false,
-      "name": "_gcl_aw",
+      "name": "ssr-tz",
       "path": "/",
       "sameSite": "unspecified",
       "secure": false,
       "session": false,
       "storeId": "0",
-      "value": "GCL.1776600504.EAIaIQobChMI6ITDyPD5kwMVFJpmAh3Kqi_iEAQYAyABEgK9jfD_BwE"
+      "value": "Asia/Jakarta"
     },
     {
       "domain": ".shopee.co.id",
@@ -427,55 +258,7 @@
       "secure": false,
       "session": true,
       "storeId": "0",
-      "value": "858039a1-a906-4ca3-8acb-f65845daf52c"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "JSID",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": true,
-      "storeId": "0",
-      "value": "1fb0c165116ceea498c519969ba509e0"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "TID",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": true,
-      "storeId": "0",
-      "value": "1fa7b70e980e0e600526a7bc6101aa63"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "CSRFT",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": true,
-      "storeId": "0",
-      "value": "e973be7e1a33e"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "asc_seller_mp_type",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": true,
-      "storeId": "0",
-      "value": "ASC_V2"
+      "value": "7c683d27-b824-4add-a162-ab50c260b369"
     },
     {
       "domain": "shopee.co.id",
@@ -499,7 +282,7 @@
       "secure": false,
       "session": true,
       "storeId": "0",
-      "value": "bKz9Usno3C4LbWxTT39EYvcJGZ2jwCqW"
+      "value": "eGmvV0bzmv8XljauahozQjPSYJlGHwmq"
     },
     {
       "domain": "shopee.co.id",
@@ -512,55 +295,6 @@
       "session": true,
       "storeId": "0",
       "value": "1"
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1811482190.683672,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "_ga_QMX630BLLS",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "GS2.1.s1776922190$o9$g0$t1776922190$j60$l0$h0"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "lzd_sid",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": true,
-      "storeId": "0",
-      "value": "186e60a612872ba45e08deba60633b19"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "_tb_token_",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": true,
-      "storeId": "0",
-      "value": "1debe91bef9e"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "undefined_click_time",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": true,
-      "storeId": "0",
-      "value": "1777016699268"
     },
     {
       "domain": ".shopee.co.id",
@@ -623,21 +357,34 @@
       "value": "-"
     },
     {
-      "domain": "shopee.co.id",
-      "expirationDate": 1812000466.289509,
-      "hostOnly": true,
-      "httpOnly": false,
-      "name": "ssr-tz",
+      "domain": ".shopee.co.id",
+      "expirationDate": 1814668769.459066,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "SPC_EC",
       "path": "/",
       "sameSite": "unspecified",
-      "secure": false,
+      "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "Asia/Jakarta"
+      "value": "Yms3bXliVnVSbXF4VWlaaIPed62r6klEhFMVFuI3ZeARGSzF1urML/d2SCqN5Jt7NIsfDXHeBfBl24H1nBY7Tf7m66R1dt8U6V7CAFz4BZ1pAxt98+C3+4K8Mn1vaLh+aNDcrow9p0QDPQSietToMY+9de7y/FxjroexSq0rTcOMS2pLjruKcFlZR9D5IJbVAaJYGYutAeertvM33tnRUA==.AKlx/GSewmhpjidVr9VnmsTezA5ifZzVR092lISv6OBm"
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1812186253.762434,
+      "expirationDate": 1814668769.459145,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "SPC_ST",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "Y0QyQW5URWkwQmUzVDZJQ9cuWaIr9YkDX6/yYDK9EPnnEtkY/lDpfplsRhsLgkuv+3WSFu2b1fHfjMWxGsBF0VQNwNl1guNB0qPhpVVCTOdAfDmBP+RI3edzpOYUHfjmwE7GYFB6IM4UvB97N6MPWQbNiVu8qPvAnmbsEVQPiezRVaDCQNeFY05OYsbZBsVRyKtbUTKOAGyq+ptMpAxndg==.AIjdNAwwphY3oq9uReogkvkX4Jj0dDbcKw2rGv+WslcI"
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1814668769.459275,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_U",
@@ -650,33 +397,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1812186253.763411,
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "SPC_EC",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "NmhGelJsM1BBcGhpWG05YlEYCc+PoOEy9HzoRmsPzI9COw9fsxKoS6wXRri+x3QbJHb+YCWUPBanHUJojCewvo62Fl4USozmoCNdvZRu7jpNHUBAIANZD9qdqKYLw97mmT3ZpXqGLnKdyS4mp1tAYdV/34nqbIUyrS2/h4Z/GgRJMnlSsrFFddZLZVeWLtAPDuCX2l+sEM5y86IqfpSXLQ==.AMe3mzn6V/GLumjPP7vSP4vZr72YWM+EV6RI3gEjvwwq"
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1812186253.76352,
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "SPC_ST",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "ZHFhYVI3ZTFSVnFpTkRJdLpbPYjHPfHotyvL7PquZ2yhgrAVZfDv/ZpIoelgGPG7WjXSZ9+iIH0qoMcvoMl/RvPIZEUmhJv1k85vBdOwjx5uriSS4KJ42mlC3FQqvAI8ebdk8vzkjpSopvzzFsK9FxBQozq0RGrlacs4jtnXAOod58xdCr4bqKMb/30bCIu2XNiIC1ndn6/L2nykcRKjLA==.ACGtDc1HW3ir+lRvag599ADg+F8mAv/nvwXyTTMfCpqn"
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1778231056.879818,
+      "expirationDate": 1780713571.568618,
       "hostOnly": false,
       "httpOnly": true,
       "name": "SPC_SC_SESSION",
@@ -685,11 +406,11 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "glcaybmY7qRX26f9gIvwTfvg75abZDj20S8AQq308VGzVKa0FX0OpiaqA+nVJxP68jyMVc2VCy12ABEgYDULKjOrf3cpTQgVjXqcTbTbMgiq3C+80ZXOygVYKFAbLcd0gjbdROTh49/7kvSb3jjsLg2YuyYEMNh/4347IIOvdSxzt3I+LI0zbdeqXyc7Ihl+uSm3fj6AkXmltg5GD6EzFEYYkBxXMbx3sFdwmFo7Se1nP2QbXNZBw5m9s6eV2Bp65Z0giLWee9bMNmN6nFxaYgw==_1_24821231"
+      "value": "gRQjmDguO2woaCQWnho2ON2zXwVU+quApPVq0xc2gLF1ib8ql6aUmKvBtml7Y/RfrIVVtGkVSM3J6lr1rOq3fTCYWQaL4Qq0BeHt/5bnOAm8homBudl0enF3LGoD0/g2CCmg1Rf4BabnmNZoOwrP6Cwr41YMbn0jRTFmO1YOuENrJcPAoizXcgmJ8ARkLoygLgaq/LSOwbmVjuUUqFJbzUsVs/5i38/GMxk5US6kpXkFqtYmU2negCLFnX8K5uBbAx7YyJZRazU7Rw2r5r9A71g==_1_24821231"
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1778231056.880026,
+      "expirationDate": 1780713571.568686,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_SC_MAIN_SHOP_SA_UD",
@@ -702,7 +423,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1778231056.880121,
+      "expirationDate": 1780713571.568717,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_STK",
@@ -711,50 +432,11 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "o6nyOcKBbF+yBR1ogwiwZdkFSc9gUpLpWxnB9U0VIO15OxrK5Ztl8Iu6Uux6ogUaQIgTsD33EYxm+z3dhiNHNnO++Bx5VPLwGwBeWp4sxooroygyIIO2pzSz+9ubIHPB9JCm99PMbdnQmAwVBJ9RfKKJKd75cioYXaZypElpcuL0uehZ5ZfIlkfAKejqd5RaOaZKwW8qJmLhAh6FlvcP9BCuXZfBKV5xEuRd07MNLz4zRzBKDp+IiQRi3kjF7qfYdxtSFtCWE/8zRmDag/ApP8DFB0VJKsoJROEVI/DJn9s0S9OPTtW6/YME+Fh1GY+s1mlFQVoy2f/wg3DL4FgSo76iWjBiCwqKBMTvrUyihXTWcatteGctd6OZxqdHQKFIMz65X9E2B+kvCMXbjb5s32lnCh9BGWMLYk4W5AFhn6jku+USzVom4h6sFSlAE3afCdonjEjHKJPY6i937DP6Iop5tP4xvytWMbLkOEUCAmuODnTK4jy5QBTVidS2/13i"
+      "value": "rb2BwZ8y4L2ZDPojf72ebOLnCoFGTZkIZCeZJEBDmzCL9V6dFmnVGkv12ibaA7oT09CHlTMapKS6HwCeR4GO1et0Sm7o56laDrKssmcb7HfWrqTrMFNyc/scZ5HYqvgjY7tbLllH7kcfy0Iq3pZURRydVY+YZHTbHUAhV+Mh2dg9Vp5JfvHN2UXZVzvBTnKmq1POhOFvzzKCzV7tIiZjAWxN5bVdOV/uEYsP4J+7eZakD5scy7rq4Mrpcs0mopLz2MepNFaEVnwpYj4oJUb0qrQc1281FZpbJukMIE7mUVnrcmOBbJRN+o3AzVOFeXJBY0NXXukjrJx42MIGP7LyhiYm1uvQmubXuv8TUr7GnQUty5prFY7QLjKX653aoBAlu6bgudQcjRiAlDJYXWm1QPs9aOiSXFirCY3Z1Ls6sWlBurp9PHK7fJhXcAKZkahNctPGDOVkmpkSR86py/uGR2U/vTOdTarpZ038xs+1++6nNJwb4LmUkKKXYNkA0rUP"
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1812465762.584992,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "SPC_R_T_IV",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "QkVhRHpTMVhWY0pWNHduZw=="
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1812465762.585061,
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "SPC_T_ID",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "o0ouJy75Zt9qCeDgE8yAZj/vyKfHwsyNjvXJBEioqscDwcSDopxAwOM4FubadxYZmcT2LaY4T1ubd5oQOLQuzixqcswRPNk9RGDYWBeWt79wTmWOgb/eozrQayj9aIy1LnUiJDFMzMrqSFQvOEHz8afKr+Q7LY8OMmHXmZBRktc="
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1812465762.585136,
-      "hostOnly": false,
-      "httpOnly": true,
-      "name": "SPC_T_IV",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "QkVhRHpTMVhWY0pWNHduZw=="
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1812465762.584905,
+      "expirationDate": 1814926571.681186,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_R_T_ID",
@@ -763,50 +445,63 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "o0ouJy75Zt9qCeDgE8yAZj/vyKfHwsyNjvXJBEioqscDwcSDopxAwOM4FubadxYZmcT2LaY4T1ubd5oQOLQuzixqcswRPNk9RGDYWBeWt79wTmWOgb/eozrQayj9aIy1LnUiJDFMzMrqSFQvOEHz8afKr+Q7LY8OMmHXmZBRktc="
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1793273281,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "isg",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "BCMiD6OaTvwo_wNkCz9-vuxwsm7NGLdaHjZgm1WBBQKYlEe23epqqrCHinyaNA9S"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1778419135.893808,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "_m_h5_tk",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "f52e27f5d5b60e64628c047abebf6ed5_1777824055877"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1778419135.893923,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "_m_h5_tk_enc",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "9a8e72de36ab9037a576a5ed2cbe93de"
+      "value": "t25wm8ip9xhqnpSidZkIFMApu5SDcdyxC1u9JUx71Gdg5F2FXptkSwFbHACW/G8tq9jlcOqlYGqVr0hOhmB+IlIHVqBUSBTmEToek1z/T054aSF89xW15fYlCeLQdyDOlGAOdSqdVXq+9G8DwNGQHzjC3979EeBOjmyN4JIL1XY="
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1780476294,
+      "expirationDate": 1814926571.681255,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "SPC_R_T_IV",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "YlliR000R0NiR254NlZWaA=="
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1814926571.681324,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "SPC_T_ID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "t25wm8ip9xhqnpSidZkIFMApu5SDcdyxC1u9JUx71Gdg5F2FXptkSwFbHACW/G8tq9jlcOqlYGqVr0hOhmB+IlIHVqBUSBTmEToek1z/T054aSF89xW15fYlCeLQdyDOlGAOdSqdVXq+9G8DwNGQHzjC3979EeBOjmyN4JIL1XY="
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1814926571.681388,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "SPC_T_IV",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "YlliR000R0NiR254NlZWaA=="
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1788061917,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gcl_gs",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "2.1.k1$i1780285916$u94527966"
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1782877917,
       "hostOnly": false,
       "httpOnly": false,
       "name": "_med",
@@ -815,11 +510,24 @@
       "secure": false,
       "session": false,
       "storeId": "0",
-      "value": "refer"
+      "value": "cpc"
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1788061919,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gcl_aw",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GCL.1780285920.EAIaIQobChMIiv3J6pHllAMVdoRmAh1VKQTIEAQYAiABEgJZkfD_BwE"
     },
     {
       "domain": "shopee.co.id",
-      "expirationDate": 1777975193.461864,
+      "expirationDate": 1780393673.355774,
       "hostOnly": true,
       "httpOnly": true,
       "name": "SPC_SEC_SI",
@@ -828,63 +536,11 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "v1-NE5nbnNQbjZ5M0ZtNTNQWpLcklRfcPIe/Xl8WMyF3Hhebi2M8pewQXLoYtrx8OoaW3Jo9z24qlHy3TfG7lK/rupavbAroU6L9746tkPvqvo="
+      "value": "v1-VlVIbW1yMFRrTk1kMlZQUlk5YApHWs+muuDF9suAAtkbOXAfXMZWFiYt5JMgXVogZVEy/NQYewR0oWoxPzO+5t+DQO6NPafWovPsHVd7h4o="
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1778494914.862661,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "CTOKEN",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "EvXn5kejEfGHPzpJfBYgwQ%3D%3D"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1793452856.750123,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "lwrtk",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "AAIEafkNuFKPtoN2hIVmcyLkVsBp5Veym5UVCalwD6/dJZPvS7/w7TI="
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1793457050.314206,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "epssw",
-      "path": "/",
-      "sameSite": "unspecified",
-      "secure": false,
-      "session": false,
-      "storeId": "0",
-      "value": "12*tYeK2IwGGIA0fV1s8UjR-SSG4w_tGtrzm53SRmYSmJ0aXR3h46GGG-5zMFcnl6X7lXxL-XoPplIGGrMsbuDjsDYe0heSvCue88s-myQdo_hpe_QkXsVDHXNOVE4vhEYxHAaYmGEPpBvwyj1CmrjGmHbfAhgQAxvYQAQ7jGwsrp0oGGONc40zAEz_TlGGXOZBXwKK-GBADsDvXPKHmDI26Fzhj_a3UTgC8uDeisssQZSPjs4kcwGGGMeitLBGt3avjG8P_mLl1wGGJfcwFwzRm3ytJeUkSQjeiiO5ARiiJf2wFdT2vXk1RAmvHACMOlOvYTAFhyATEiblYCbmErT8b1tWYY7X"
-    },
-    {
-      "domain": ".lazada.co.id",
-      "expirationDate": 1793366336,
-      "hostOnly": false,
-      "httpOnly": false,
-      "name": "tfstk",
-      "path": "/",
-      "sameSite": "no_restriction",
-      "secure": true,
-      "session": false,
-      "storeId": "0",
-      "value": "gCPSBxMlKVm2n97Rv372lry-20GBcW6V__8QSPneaph8cHUTSvhFEplIRko4a0zLU2ZjZSyyT0SoOyEZOGSN_1zulbcdbGov6U3E92CEvtkRHv-hpGSN_sz-AAAFbzRak9kx-m3Jw23dlK3IWX3KyXQjD2gMp3EK9Z_jRVYJevnKkE3EWXnLvXQbkm0K94EK9Zaxm2HPUIgDimz5Jm9dovbB1Lhw9BFjPxCaymhmgwuSFcU-cGKzGBHSXzhXOgMFfGm-W5I2EVM7AxF48FRE2zegxVEJ2imUQrP-hX6wxDwUy7PStevblvNzKvNlWhm_erNIaus6KcezkjnueMJ-274ZGJHfy_UjN0Zgwu11DlH_aJDQZNKif8UbObP58L0uHucjoWSDwDwYp7kot3ImYRz4wxGO4HAZfPYvdEMMOqiNlZ9HKFj1b22BvHxjeq0qbZ_XQaM-oqiNlZ9HKY3moE7fld75."
-    },
-    {
-      "domain": ".shopee.co.id",
-      "expirationDate": 1812465634.418388,
+      "expirationDate": 1814878198.286226,
       "hostOnly": false,
       "httpOnly": false,
       "name": "_ga_SW6D8G0HXK",
@@ -893,11 +549,11 @@
       "secure": false,
       "session": false,
       "storeId": "0",
-      "value": "GS2.1.s1777905634$o1145$g0$t1777905634$j60$l1$h461109013"
+      "value": "GS2.1.s1780317064$o1272$g1$t1780318198$j60$l1$h1586734665"
     },
     {
       "domain": "shopee.co.id",
-      "expirationDate": 1809441637,
+      "expirationDate": 1811854200,
       "hostOnly": true,
       "httpOnly": false,
       "name": "shopee_webUnique_ccd",
@@ -906,11 +562,11 @@
       "secure": false,
       "session": false,
       "storeId": "0",
-      "value": "tJ0j2O8%2FNybAKA85gW0sCw%3D%3D%7CiM4P1nWfQ8%2BaSWmrDQ%2FYOffVXM5%2FomDeeMuZh%2B6Pub2swQhHFS2AcuSZU6NB4h3C1YuupLrDrx4%2BCHbk84o%3D%7CmVBU9IMBZxNbCk%2Fk%7C08%7C3"
+      "value": "tQEwnXn29ypvL46wvq7INw%3D%3D%7CL8wP1t9Kvu5GwnyrDQ%2FYOffVXM5%2FomDeeMuZhw907c2vwQhHFS2AcuSZU6NB4h3C1YuupLrDrx4%2BCHbk84o%3D%7CmVBU9IMBZxNbCk%2Fk%7C08%7C3"
     },
     {
       "domain": "shopee.co.id",
-      "expirationDate": 1809441637,
+      "expirationDate": 1811854200,
       "hostOnly": true,
       "httpOnly": false,
       "name": "ds",
@@ -919,7 +575,20 @@
       "secure": false,
       "session": false,
       "storeId": "0",
-      "value": "26ffa577c6af5aa797b9eb6d497b6b3e"
+      "value": "987e03fbac14e62b72916799b4879251"
+    },
+    {
+      "domain": ".shopee.co.id",
+      "expirationDate": 1780930968.211512,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "CTOKEN",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "8%2BZ%2B2l3KEfGwOPp49QnywQ%3D%3D"
     }
   ]
 }
