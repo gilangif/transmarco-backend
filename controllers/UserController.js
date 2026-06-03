@@ -51,7 +51,7 @@ const db = [
   {
     username: "obl",
     password: "obl",
-    brand: "OBBL",
+    brand: "OBL",
   },
   {
     username: "obm",
