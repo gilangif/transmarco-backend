@@ -129,7 +129,15 @@ class Sheets {
       const lastRow = res.data.values ? res.data.values.length : 1
       const nextRow = lastRow + 1
 
-      const date = new Date().getDate()
+      const now = new Date()
+      const day = String(now.getDate()).padStart(2, "0")
+
+      const months = ["JAN", "FEB", "MAR", "APR", "MEI", "JUN", "JUL", "AGS", "SEP", "OKT", "NOV", "DES"]
+
+      const month = months[now.getMonth()]
+      const year = now.getFullYear()
+
+      const date = `${day}-${month}-${year}`
 
       const values = [
         [date, shipping_trace_number, order_sn, barcode, qty, status, "", sku_variant, product_name, variant_name, order_price, status_info, item_id, model_id, shipping, timestamp, note],
