@@ -32,7 +32,7 @@ class Sheets {
       HPBL: { spreadsheetId: "wkwk", ...transmarco },
       HPBM: { spreadsheetId: "wkwk", ...transmarco },
       OBBL: { spreadsheetId: "wkwk", ...transmarco },
-      OBM: { spreadsheetId: "wkwkwk", ...transmarco },
+      OBM: { spreadsheetId: "11qK7nXyRZHDDoqXIls2W4fokTIFBdm3Z72QLTKAbUso", ...transmarco },
       PLL: { spreadsheetId: "wkwk", ...transmarco },
       OBBM: { spreadsheetId: "1lZsKW8YTQDU7QdRIJOBwViOAAV4Gke0d9-AkyIaXkfY", ...transmarco },
       OBL: { spreadsheetId: "1t0YWuUNLO8zG3xnWo19PEXDL9lsEDNnxuoKvABc4KfY", ...transmarco },
