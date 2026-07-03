@@ -25,18 +25,18 @@ class Sheets {
     const credentials = {
       HPAL: { spreadsheetId: "1tTUFuzFYl9QxP-T-8nqG4IIjak1ZDzdyKZYmFpFMV9Y", ...transmarco },
       HPAM: { spreadsheetId: "1tNr0u7TvRaktU9WeRb1DG-QFpjti9bPK7mkJIU075tE", ...transmarco },
-      HPBL: { spreadsheetId: "", ...transmarco },
-      HPBM: { spreadsheetId: "", ...transmarco },
+      HPBL: { spreadsheetId: "wkwk", ...transmarco },
+      HPBM: { spreadsheetId: "wkwk", ...transmarco },
       HPL: { spreadsheetId: "1w9aGI1gCXDZv__B2VlN0dMhTjgjiIOGwr3hAIAUDJmE", ...transmarco },
       HPM: { spreadsheetId: "1Sa_9grskuH92Copn00Arq9r2O6drka7ljOtbjWeHbxM", ...transmarco },
       HPSO: { spreadsheetId: "1SV_a0Dxn5GyIowS6fzFjdu6CORpNTdggmUx-_0fpHLg", ...transmarco },
       OBAM: { spreadsheetId: "1-hNRhuOTK_FwrPeuuz844euaE0MsB3yTSTXFoNwKtpE", ...transmarco },
-      OBBL: { spreadsheetId: "", ...transmarco },
+      OBBL: { spreadsheetId: "wkwk", ...transmarco },
       OBBM: { spreadsheetId: "1lZsKW8YTQDU7QdRIJOBwViOAAV4Gke0d9-AkyIaXkfY", ...transmarco },
       OBL: { spreadsheetId: "1t0YWuUNLO8zG3xnWo19PEXDL9lsEDNnxuoKvABc4KfY", ...transmarco },
       OBM: { spreadsheetId: "wkwkwk", ...transmarco },
       PLM: { spreadsheetId: "171l5oS2hGlcRP6wrlUY_7CVf9Bn8D_ulfQHkDT5J9es", ...transmarco },
-      PLL: { spreadsheetId: "", ...transmarco },
+      PLL: { spreadsheetId: "wkwk", ...transmarco },
       CAT: { spreadsheetId: "1q2wEh7sSLGccXNcwfrubBThUxrva1pTji8u3jNApwOc", ...transmarco },
     }
 
