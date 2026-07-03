@@ -25,18 +25,18 @@ class Sheets {
     const credentials = {
       HPAL: { spreadsheetId: "1tTUFuzFYl9QxP-T-8nqG4IIjak1ZDzdyKZYmFpFMV9Y", ...transmarco },
       HPAM: { spreadsheetId: "1tNr0u7TvRaktU9WeRb1DG-QFpjti9bPK7mkJIU075tE", ...transmarco },
-      HPBL: { spreadsheetId: "wkwk", ...transmarco },
-      HPBM: { spreadsheetId: "wkwk", ...transmarco },
       HPL: { spreadsheetId: "1w9aGI1gCXDZv__B2VlN0dMhTjgjiIOGwr3hAIAUDJmE", ...transmarco },
       HPM: { spreadsheetId: "1Sa_9grskuH92Copn00Arq9r2O6drka7ljOtbjWeHbxM", ...transmarco },
       HPSO: { spreadsheetId: "1SV_a0Dxn5GyIowS6fzFjdu6CORpNTdggmUx-_0fpHLg", ...transmarco },
       OBAM: { spreadsheetId: "1-hNRhuOTK_FwrPeuuz844euaE0MsB3yTSTXFoNwKtpE", ...transmarco },
-      OBBL: { spreadsheetId: "wkwk", ...transmarco },
+      // HPBL: { spreadsheetId: "wkwk", ...transmarco },
+      // HPBM: { spreadsheetId: "wkwk", ...transmarco },
+      // OBBL: { spreadsheetId: "wkwk", ...transmarco },
+      // OBM: { spreadsheetId: "wkwkwk", ...transmarco },
+      // PLL: { spreadsheetId: "wkwk", ...transmarco },
       OBBM: { spreadsheetId: "1lZsKW8YTQDU7QdRIJOBwViOAAV4Gke0d9-AkyIaXkfY", ...transmarco },
       OBL: { spreadsheetId: "1t0YWuUNLO8zG3xnWo19PEXDL9lsEDNnxuoKvABc4KfY", ...transmarco },
-      OBM: { spreadsheetId: "wkwkwk", ...transmarco },
       PLM: { spreadsheetId: "171l5oS2hGlcRP6wrlUY_7CVf9Bn8D_ulfQHkDT5J9es", ...transmarco },
-      PLL: { spreadsheetId: "wkwk", ...transmarco },
       CAT: { spreadsheetId: "1q2wEh7sSLGccXNcwfrubBThUxrva1pTji8u3jNApwOc", ...transmarco },
     }
 
@@ -54,39 +54,44 @@ class Sheets {
   }
 
   async getStock() {
-    const { sheets, spreadsheetId, brand } = this
+    try {
+      const { sheets, spreadsheetId, brand } = this
 
-    const range = "INVENTORY!A1:V2000"
-    const majorDimension = "ROWS"
+      const range = "INVENTORY!A1:V2000"
+      const majorDimension = "ROWS"
 
-    const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
+      const { data } = await sheets.spreadsheets.values.get({ spreadsheetId, range, majorDimension })
 
-    const map = [
-      { range: "A", key: "barcode", int: false },
-      { range: "B", key: "inventory", int: true },
-      { range: "C", key: "reff_code", int: false },
-      { range: "D", key: "shopee_id", int: false },
-      { range: "E", key: "lazada_id", int: false },
-      { range: "F", key: "desc", int: false },
-      { range: "G", key: "price", int: true },
-      { range: "H", key: "promo_type", int: false },
-      { range: "I", key: "netto", int: true },
-      { range: "J", key: "promo", int: false },
-      { range: "K", key: "item", int: false },
-      { range: "L", key: "size", int: false },
-      { range: "M", key: "barcode_alias", int: false },
-      { range: "N", key: "code", int: false },
-      { range: "O", key: "color", int: false },
-      { range: "P", key: "", int: false },
-      { range: "Q", key: "sales", int: true },
-      { range: "R", key: "incoming", int: true },
-      { range: "S", key: "outgoing", int: true },
-      { range: "T", key: "ecomm", int: true },
-      { range: "U", key: "stock_data", int: true },
-      { range: "V", key: "stock", int: true },
-    ]
+      const map = [
+        { range: "A", key: "barcode", int: false },
+        { range: "B", key: "inventory", int: true },
+        { range: "C", key: "reff_code", int: false },
+        { range: "D", key: "shopee_id", int: false },
+        { range: "E", key: "lazada_id", int: false },
+        { range: "F", key: "desc", int: false },
+        { range: "G", key: "price", int: true },
+        { range: "H", key: "promo_type", int: false },
+        { range: "I", key: "netto", int: true },
+        { range: "J", key: "promo", int: false },
+        { range: "K", key: "item", int: false },
+        { range: "L", key: "size", int: false },
+        { range: "M", key: "barcode_alias", int: false },
+        { range: "N", key: "code", int: false },
+        { range: "O", key: "color", int: false },
+        { range: "P", key: "", int: false },
+        { range: "Q", key: "sales", int: true },
+        { range: "R", key: "incoming", int: true },
+        { range: "S", key: "outgoing", int: true },
+        { range: "T", key: "ecomm", int: true },
+        { range: "U", key: "stock_data", int: true },
+        { range: "V", key: "stock", int: true },
+      ]
 
-    return parseSheetData(data.values, map, brand, "item")
+      return parseSheetData(data.values, map, brand, "item")
+    } catch (error) {
+      console.log(error)
+      console.log(this.credentials)
+    }
   }
 
   async getEcomm() {

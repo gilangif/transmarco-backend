@@ -4,6 +4,12 @@ import Sheets from "../models/Sheets.js"
 
 export default async function updateSheets() {
   try {
+    // HPBL: { spreadsheetId: "wkwk", ...transmarco },
+    // HPBM: { spreadsheetId: "wkwk", ...transmarco },
+    // OBBL: { spreadsheetId: "wkwk", ...transmarco },
+    // OBM: { spreadsheetId: "wkwkwk", ...transmarco },
+    // PLL: { spreadsheetId: "wkwk", ...transmarco },
+
     const hpal = new Sheets("HPAL")
     const hpal_data = await hpal.getStock()
 
@@ -15,6 +21,12 @@ export default async function updateSheets() {
 
     // const hpbm = new Sheets("HPBM")
     // const hpbm_data = await hpbm.getStock()
+
+    // const obbl = new Sheets("OBBL")
+    // const obbl_data = await obbl.getStock()
+
+    // const pll = new Sheets("PLL")
+    // const pll_data = await pll.getStock()
 
     const hpm = new Sheets("HPM")
     const hpm_data = await hpm.getStock()
@@ -28,9 +40,6 @@ export default async function updateSheets() {
     const obam = new Sheets("OBAM")
     const obam_data = await obam.getStock()
 
-    // const obbl = new Sheets("OBBL")
-    // const obbl_data = await obbl.getStock()
-
     const obl = new Sheets("OBL")
     const obl_data = await obl.getStock()
 
@@ -42,9 +51,6 @@ export default async function updateSheets() {
 
     const plm = new Sheets("PLM")
     const plm_data = await plm.getStock()
-
-    // const pll = new Sheets("PLL")
-    // const pll_data = await pll.getStock()
 
     const cat = new Sheets("CAT")
     const cat_data = await cat.getStock()
