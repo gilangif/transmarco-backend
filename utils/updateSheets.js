@@ -10,11 +10,11 @@ export default async function updateSheets() {
     const hpam = new Sheets("HPAM")
     const hpam_data = await hpam.getStock()
 
-    const hpbl = new Sheets("HPBL")
-    const hpbl_data = await hpbl.getStock()
+    // const hpbl = new Sheets("HPBL")
+    // const hpbl_data = await hpbl.getStock()
 
-    const hpbm = new Sheets("HPBM")
-    const hpbm_data = await hpbm.getStock()
+    // const hpbm = new Sheets("HPBM")
+    // const hpbm_data = await hpbm.getStock()
 
     const hpm = new Sheets("HPM")
     const hpm_data = await hpm.getStock()
@@ -28,8 +28,8 @@ export default async function updateSheets() {
     const obam = new Sheets("OBAM")
     const obam_data = await obam.getStock()
 
-    const obbl = new Sheets("OBBL")
-    const obbl_data = await obbl.getStock()
+    // const obbl = new Sheets("OBBL")
+    // const obbl_data = await obbl.getStock()
 
     const obl = new Sheets("OBL")
     const obl_data = await obl.getStock()
@@ -43,8 +43,8 @@ export default async function updateSheets() {
     const plm = new Sheets("PLM")
     const plm_data = await plm.getStock()
 
-    const pll = new Sheets("PLL")
-    const pll_data = await pll.getStock()
+    // const pll = new Sheets("PLL")
+    // const pll_data = await pll.getStock()
 
     const cat = new Sheets("CAT")
     const cat_data = await cat.getStock()
@@ -52,18 +52,18 @@ export default async function updateSheets() {
     config.stocks = [
       ...hpal_data,
       ...hpam_data,
-      ...hpbl_data,
-      ...hpbm_data,
+      // ...hpbl_data,
+      // ...hpbm_data,
       ...hpl_data,
       ...hpm_data,
       ...hpso_data,
       ...obam_data,
-      ...obbl_data,
+      // ...obbl_data,
       ...obl_data,
       ...obm_data,
       ...obbm_data,
       ...plm_data,
-      ...pll_data,
+      // ...pll_data,
       ...cat_data,
     ]
 
