@@ -90,7 +90,7 @@ class Sheets {
       return parseSheetData(data.values, map, brand, "item")
     } catch (error) {
       console.log(error)
-      console.log(this.credentials)
+      console.log(this.brand)
     }
   }
 
