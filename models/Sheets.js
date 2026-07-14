@@ -23,7 +23,7 @@ const transmarco = {
 class Sheets {
   constructor(brand) {
     const credentials = {
-      HPAL: { spreadsheetId: "1tTUFuzFYl9QxP-T-8nqG4IIjak1ZDzdyKZYmFpFMV9Y", ...transmarco },
+      HPAL: { spreadsheetId: "1Di1IoYVsD56oH6_xhalTL4fr3EeFDmuzOWbpSdH12oo", ...transmarco },
       HPAM: { spreadsheetId: "1tNr0u7TvRaktU9WeRb1DG-QFpjti9bPK7mkJIU075tE", ...transmarco },
       HPL: { spreadsheetId: "1w9aGI1gCXDZv__B2VlN0dMhTjgjiIOGwr3hAIAUDJmE", ...transmarco },
       HPM: { spreadsheetId: "1Sa_9grskuH92Copn00Arq9r2O6drka7ljOtbjWeHbxM", ...transmarco },
