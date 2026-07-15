@@ -1,5 +1,5 @@
 {
-  "url": "https://seller.shopee.co.id/awbprint?job_id=SDK0001_1be831c6974be07bb6401ca57d78abae&shop_id=24819895&lang=id&first_time=1",
+  "url": "https://seller.shopee.co.id/portal/product/list/live/all?operationSortBy=recommend_v2",
   "cookies": [
     {
       "domain": ".shopee.co.id",
@@ -159,7 +159,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1818594601.340307,
+      "expirationDate": 1818682078.623082,
       "hostOnly": false,
       "httpOnly": true,
       "name": "SPC_T_IV",
@@ -172,7 +172,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1818594601.340403,
+      "expirationDate": 1818682078.623241,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_R_T_ID",
@@ -185,7 +185,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1818594601.340446,
+      "expirationDate": 1818682078.623291,
       "hostOnly": false,
       "httpOnly": false,
       "name": "SPC_R_T_IV",
@@ -198,7 +198,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1818594601.34022,
+      "expirationDate": 1818682078.623334,
       "hostOnly": false,
       "httpOnly": true,
       "name": "SPC_T_ID",
@@ -263,7 +263,7 @@
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1784123452.365375,
+      "expirationDate": 1784208483.035963,
       "hostOnly": false,
       "httpOnly": true,
       "name": "SPC_SI",
@@ -327,7 +327,7 @@
     },
     {
       "domain": "shopee.co.id",
-      "expirationDate": 1784108904.060522,
+      "expirationDate": 1784198578.863446,
       "hostOnly": true,
       "httpOnly": true,
       "name": "SPC_SEC_SI",
@@ -336,11 +336,11 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "v1-RjJheWFrck9QaEl1dGtWcjQZr1YjxaKWMFCRagDBJ02ihLsaHCDcctWL0/fNsoypkAqAvNyr/MNcLVbmM2/jT4l5RySbsBMr2VoE228ilG0="
+      "value": "v1-aHQ0VVB1RTgwazZUSFRhdX0bhTE5T/oCeyQqCu4aVq5kc8Z8l1fVIyhXhUPItgkJEEtBFpPm2B4akFIuYuzZdnmevf8kGijilt2RA/FnGpo="
     },
     {
       "domain": ".shopee.co.id",
-      "expirationDate": 1784639396.45163,
+      "expirationDate": 1784726878.81648,
       "hostOnly": false,
       "httpOnly": false,
       "name": "CTOKEN",
@@ -349,7 +349,7 @@
       "secure": true,
       "session": false,
       "storeId": "0",
-      "value": "T2JhLH%2BFEfGo2lIQERlxig%3D%3D"
+      "value": "%2Fu%2FnR4BQEfGjILpW%2FPHg%2Bg%3D%3D"
     }
   ]
 }
